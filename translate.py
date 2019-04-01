@@ -11,6 +11,10 @@ with open('Schreuder_1976_Dutch-motion-verbs-list.txt') as f:
 		du_verbs.append(line.rstrip('\n'))
 du_verbs  = [x.lower() for x in du_verbs]
 
+# Brute force solution to get around GoogleTransl transfer limit is to run
+# the script in different computers and combine the results afterwards:
+du_verbs = du_verbs[99:]
+
 # Target languages to translate to
 languages = ["en", "de", "sv", "es", "fr"]
 
@@ -42,8 +46,8 @@ for verb_sublist in du_verbs_chunked:
 		for lang in languages:
 			translated_verbs.append([
 				word,
-				lang#,
-				# translator.translate(word, dest = lang).text
+				lang,
+				translator.translate(word, src = "nl", dest = lang).text
 				])
 	# save to csv file
 	for item in translated_verbs:
