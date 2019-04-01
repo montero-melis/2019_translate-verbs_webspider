@@ -31,12 +31,12 @@ csv_writer.writerow(columns)
 # https://cloud.google.com/translate/quotas
 # Break therefore down the list into smaller sublists and save to disk.
 # (NB: See bottom of file for alternative ways of doing this)
-steps_of = 20
-index_list = [x*steps_of for x in range(1 + len(du_verbs)//20)]
+steps_of = 10
+index_list = [x*steps_of for x in range(1 + len(du_verbs)//steps_of)]
 
 du_verbs_chunked = [
-	du_verbs[x*steps_of : (x+1) * steps_of]
-		for x in range(1 + len(du_verbs)//20)
+	du_verbs[x*steps_of : (x+1)*steps_of]
+		for x in range(1 + len(du_verbs)//steps_of)
 	]
 
 for verb_sublist in du_verbs_chunked:
