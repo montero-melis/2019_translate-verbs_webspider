@@ -13,7 +13,7 @@ du_verbs  = [x.lower() for x in du_verbs]
 
 # Brute force solution to get around GoogleTransl transfer limit is to run
 # the script in different computers and combine the results afterwards:
-du_verbs = du_verbs[298:]
+du_verbs = du_verbs[374:]
 
 # Target languages to translate to
 languages = ["en", "de", "sv", "es", "fr"]
