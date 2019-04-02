@@ -1,6 +1,7 @@
 # My own stuff
 *test.py
 *.pdf
+*xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
