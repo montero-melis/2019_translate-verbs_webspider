@@ -3,6 +3,11 @@
 *.pdf
 *xlsx
 
+# R
+*.Rhistory
+*test.R
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
