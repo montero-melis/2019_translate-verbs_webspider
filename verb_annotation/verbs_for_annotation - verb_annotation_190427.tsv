@@ -1,0 +1,478 @@
+Dutch_verb	IsMannerOfMotion	IsTransitiveOrIntransitiveVerb	IsTranspositionVerb	GMM_1st_check	Category	IsEnCorrect	Comment	en	en_vanDale	de_vanDale	de_googletrans	sv	es_gmm	es	fr	randomNb
+brommen	0		0	1			or 99	hum	hum; growl; buzz	brummen; schnurren; knurren; Moped fahren	summen	hum		zumbido	hum	0.1309356356
+aaien	0							to pet			streicheln	stroke		acariciando	caressant	0.8298856409
+aftaaien	0						I didn't know this one.	aftaaien			aftaaien	aftaaien		aftaaien	aftaaien	0.840868788
+apporteren	0							to fetch			holen	hämta		buscar	aller chercher	0.1460662303
+arren	0							though			obwohl	Även		aunque	bien que	0.883316935
+baggeren	0				instrument;act-on-something	1		dredging			Baggerarbeiten	muddring		dragado	dragage	0.1264520497
+barsten	0				change-of-state			burst			platzen	skur		estallido	éclater	0.4127726378
+begeleiden	0							accompany			zu führen	att vägleda		para guiar	pour guider	0.8199577533
+belanden	0							end up			enden	hamna		terminar	finir	0.3988209952
+bersten	0						alternative spelling of "barsten"	burst			bersten	skur		explosión	éclat	0.7500462983
+beuren	0							beuren			beuren	Beuren		Beuren	Beuren	0.8613583601
+biggelen	0						I only really know this one as in "de tranen biggelden over zijn wangen", "the tears streaked down his face"	piggling			Flackern	dribbla		piggling	brochage	0.9004427451
+bladeren	0							leaves			Blätter	löv		hojas	feuilles	0.6034224465
+bolderen	0						I didn't know this one.	bollering			Bollering	fetstil ära		bollering	bollering	0.5636439293
+centreren	0							centering			Zentrierung	centre		centrado	centrage	0.2547088247
+cirkuleren	0							circulating for a			Zirkulieren für eine	cirkuleren		de circulación para una	faire circuler un	0.1854757941
+convergeren	0							converge			konvergieren	konvergera		convergen	converger	0.7451268077
+crawlen	0						in water	to crawl (in swimming)			kriechen	krypa		crol	crawl	0.01357915704
+defileren	0							the burial			die Bestattung	nedgrävning		el entierro	l'enterrement	0.4228811447
+deinen	0							your			deinen	din		su	votre	0.3203884963
+deponeren	0							deposit			einzahlen	insättning		depositar	dépôt	0.113786143
+deporteren	0							deport			deportieren	deportera		deportar	déporter	0.4314826298
+divergeren	0							diverge			divergieren	divergerar		divergeren	divergeren	0.233343019
+dollen	0							fooling around			herumalbern	lurar runt		jugando	rigoler	0.1472169494
+dompelen	0							immerse			eintauchen	doppning		sumergir	plonger	0.9507980025
+doorklieven	0							cleave			spalten	plog		cortar	cliver	0.1926395492
+dopen	0							baptize			taufen	döpa		bautizar	baptiser	0.1589900498
+drijven	0						in water	float			schweben	float		flotar	flotter	0.6581182652
+drillen	0							drill			Bohrmaschine	borr		taladro	foret	0.805728269
+droppelen	0			1				droppelen			Droppelen	droppelen		droppelen	droppelen	0.4295921596
+druipen	0							to drip			tropft	dropp		goteando	dégoulinant	0.04063865517
+druppelen	0						can take an object (e.g. to drip dressing on a salad) or not (e.g. the rain was dripping)	to drip			tropfen	dropp		goteo	goutte à goutte	0.1083893421
+duikelen	0						in water	to dive			tauchen	att dyka		bucear	plonger	0.738138086
+duiken	0						in water	to dive/to duck			Tauchen	dykning		bucear	plongée	0.002320284164
+ebben	0							in this			hierin	i detta		en este	dans ce	0.9765713096
+ejaculeren	0							ejaculeren			ejakulieren	ejakulat		eyacular	ejaculeren	0.3900142129
+embarkeren	0							embarkeren			embarkeren	embarkeren		embarkeren	embarquer	0.5493295841
+extraheren	0							extracting			extrahieren	extrakt		extrayendo	extraire	0.9272466566
+fietsen	0							bicycles			Fahrräder	cykel		bicicletas	faire du vélo	0.9719808807
+flappen	0						I didn't know this one	flaps			Klappen	klaff		flaps	volets	0.733844042
+freewheelen	0							freewheelen			Freilauf	freewheelen		rueda libre	roue libre	0.301061405
+gieten	0							casting			Gießen	gjutning		vertiendo	verser	0.5493928153
+golven	0						this refers to the movement of a wave or to move like a wave	to undulate/to flow			Wellen	golven		olas	des vagues	0.09616782704
+gondelen	0							gondolas			Gondeln	gondoler		góndolas	gondoles	0.1992458065
+groeien	0							to grow			wachsen	växa		crecer	grandir	0.3207961041
+groeperen (zich)	0							group (yourself)			Gruppe (Sie selbst)	grupp (dig själv)		grupo (tu mismo)	groupe (vous-même)	0.261233808
+gulpen	0							gulping			schlucken	Gulpen		tragando	avalant	0.1512949218
+gutsen	0							gushing			sprudeln	gouge		brotando	jaillissant	0.1962765658
+heften	0							lifting			Heben	handtag		levantamiento	levage	0.8150653296
+hurken	0							squat			hocken	squat		en cuclillas	s'accroupir	0.8902380936
+husselen	0							shuffle			mischen	shuffle		barajar	mélanger	0.7261514904
+hutselen	0						alternative spelling of "husselen"	to shake something/to shuffle a deck of cards			drängeln	jumbling		acurrucarse	se blottir	0.0552286752
+hutsen	0						same as "hutselen"/"husselen"	to stink			zu stinken	att stinka		apestar	puer	0.7772148666
+infiltreren	0							infiltrate			infiltrieren	infiltrera		infiltrarse	infiltrer	0.2001312775
+inschepen	0							embark			einschiffen	slå in		embarcarse	embarquer	0.4996219131
+instorten	0							to collapse			zusammenbrechen	kollaps		colapso	effondrement	0.4983777572
+invoegen	0							insert			einfügen	infoga		insertar	insérer	0.2919424595
+kabbelen	0							ripple			Welligkeit	lap		ondulación	ondulation	0.2333977561
+kanoën	0							to canoe			Kanufahren	paddling		piragüismo	le canoë	0.05059779511
+kantelen	0							tilt			neigen	tilt		inclinación	inclinaison	0.3501592134
+kapseizen	0							capsize			kentern	kantra		volcar	chavirer	0.8946554807
+karren	0						gramm ambiguous; the second meaning is the more common one	to transport/to drive or cycle at high speed			Karren	kärror		carritos	chariots	0.07115853896
+kelderen	0							plummet			stürzen	störtdykning		caer en picado	plomberie	0.5471284201
+keren	0							turn around			umdrehen	vänd dig om		dar la vuelta	faire demi-tour	0.9010051981
+ketsen	0							chains			Ketten	rikoschett		cadenas	des chaines	0.5595289207
+keuteren	0						I didn't know this one	fool around			herumalbern	lura runt		tontear	batifoler	0.7733732172
+kledderen	0							dress			kleiden	kledderen		vestido	habiller	0.5706651231
+klossen	0							bobbins			Spulen	bobiner		bobinas	bobines	0.6505585745
+klotsen	0							sloshing			schwappen	stänk		chapoteando	ballottement	0.5567796706
+klutsen	0							tinkering			basteln	slå upp		jugueteando	bricoler	0.8126643494
+kneden	0							knead			kneten	knåda		amasar	pétrir	0.6926679415
+knielen	0							kneel down			knien	knäböja		arrodillarse	s'agenouiller	0.9435303299
+knijpen	0							pinch			Prise	nypa		pellizcar	pincer	0.1869031913
+knikken	0							to nod			nickend	nod		asintiendo	hochant la tête	0.4318945429
+knikkeren (om)	0							marbling			Marmorierung	kulor (till)		marmoleado	marbrure	0.9389245691
+kreuken	0						can take an object (e.g. to wrinkle a blouse) or not (e.g. that blouse wrinkles easily); specifically the wrinkles or creases are unwanted	to wrinkle (something)/to crease (something)			Faltenbildung	veck		arrugas	ridée	0.05880875532
+krikken	0							jacks			Buchsen	domkrafter		tomas	crics	0.4369925045
+krimpen	0							shrink			schrumpfen	krympa		encogerse	rétrécir	0.7948370367
+kringelen	0							circle			Kreis	motstå,		circulo	cercle	0.4216654694
+kringen	0						gramm ambiguous	circles			Kreise	cirklar		círculos	cercles	0.2711989062
+krinkelen	0							shrink			schrumpfen	Krinkelen		encogerse	rétrécir	0.1312084975
+krullen	0							shavings			locken	lockar		rizos	des boucles	0.4709932089
+lazeren	0							to laze			faulenzen	att lata		para descansar	se prélasser	0.2388489018
+likken	0						has a secondary, less-used meaning which is "to make something smooth"	to lick			lecken	slicka		lamer	lécher	0.03576857127
+lillen	0							lillen			Lillen	Lillen		lillen	lillen	0.8987656427
+loeven	0						I didn't know this one.	to stay			zu bleiben	att stanna		quedarse	rester	0.6074174353
+mengen	0							to blend			mischen	blanda		mezclar	mélanger	0.9161878299
+meren	0						I only know this one specifically with the preposition "aan" as in "aanmeren"	to moor			Seen	hed		lagos	des lacs	0.06267389327
+naken	0							nudes			Akte	aspire		desnudos	nus	0.3784004017
+neerzetten	0							put down			ablegen	lägga ner		poner abajo	déposer	0.2265446852
+nijgen	0							tendencies			Tendenzen	curtsey		tendencias	les tendances	0.1488424293
+omarmen	0							embrace			umarmen	omfamna		abrazar	embrasser	0.3005223748
+omkijken	0							look back			schau zurück	titta tillbaka		mirar hacia atrás	regarde en arrière	0.4862981323
+omslaan	0							capsize			umdrehen	vända om		dar la vuelta	retourner	0.6959477546
+op tornen	0							on jogging			beim Joggen	på jogging		en trotar	sur le jogging	0.185079233
+opareken	0						misspelled; should be "opbreken"	opaque			undurchsichtig	opareken		opaco	opaque	0.4422518261
+opborrelen	0							bubbling up			sprudeln	bubbla upp		burbujeando	bouillonnant	0.6596376837
+opduiken	0						in water	emerge			aufspringen	poppar upp		apareciendo	surgir	0.8061814219
+openen	0							to open			offen	öppen		abierto	ouvrir	0.6934881796
+openrijten	0							open up			aufmachen	öppna upp		abrir	ouvrir	0.2937849985
+opkijken	0							to look up			schau auf	titta upp		mirar hacia arriba	lever les yeux	0.2052848052
+oplichten	0							lighting up			leuchten	lysa upp		iluminar	allumer	0.615543174
+oscilleren	0							oscillate			oszillieren	oscillera		oscilar	osciller	0.7713218095
+palperen	0						I didn't know what this one meant; it has a very specific medical meaning	palpate			abtasten	palpera		palpar	palper	0.0427010167
+peddelen	0						in water	paddle			Paddel	paddel		remar	pagaie	0.9765605838
+penetreren	0							penetrate			eindringen	penetrera		penetrar	pénétrer	0.9268675869
+perf operen	0						misspelled; should be "perforeren" I think	perfect			perfekt	perf operen		perfecto	parfait	0.3656648885
+plaatsen	0							place			Orte	plats		lugares	lieux	0.9825460075
+planeren	0						I didn't know this one.	plan			planen	GLÄTTA		plan	plan	0.4461518572
+plompen	0						manner of falling, but specifically into water	pumping			pumpen	fyllig		bombeo	pompage	0.6995876142
+plooien	0						similar to "kreuken" except the wrinkles/creases are wanted	folds			Falten	faldigt		pliegues	des plis	0.6251817348
+posteren	0							post			post	postering		publicar	poster	0.3557277223
+pulseren	0			1				to pulsate			pulsieren	att pulsera		pulsar	pulser	0.3345766126
+punteren	0							punting			punting	punting		punting	balade	0.6378328199
+rangeren	0						specific to trains	to arrange			Shunt	shunt		derivación	shunt	0.07278877285
+rangschikken	0							to rank			rangieren	att rangordna		para clasificar	classer	0.9714046122
+ranken	0						the Van Dale doesn't list the "to rank" meaning, but I would say it's used more and more like that and has become a cognate.	to rank/to grow on a trellis			Ranken	rankor		zarcillos	vrilles	0.06698566052
+remmen	0							brakes			Bremsen	bromsar		frenos	freins	0.7229265466
+retourneren	0						specifically means "to return something you bought in a store but don't want after all"	return			zurückkehren	Returer		regreso	retour	0.6215146183
+ricocheren	0							ricochet			zu riskieren	att riskera		arriesgar	à risquer	0.8206379373
+rijzen	0							rise			steigen	stiga		levantarse	monter	0.2738914491
+rimpelen	0							wrinkle			falten	rynka		arruga	les rides	0.6187337304
+rodelen	0							sledding			Rodeln	sledding		trineo	traîneau	0.6883964754
+roeren	0							stir			Rühren	stir		revolviendo	en remuant	0.5275539672
+ronden	0							laps			Runden	runda		vueltas	tours	0.2065861425
+rossen	0							stinging			stechen	steeds		picadura	piquant	0.2913222063
+roteren	0							rotate			drehen	rotera		girar	tourner	0.3067075843
+salueren	0							salute			Gruß	hälsning		saludo	saluer	0.3483671488
+schampen	0							scour			Scheuern	skrapa		fregar	récurer	0.3118930831
+scharen	0							to arrange			Schere	saxar		tijeras	des ciseaux	0.004141883095
+scheiden	0							divorce			Scheidung	separat		divorcio	divorce	0.572781805
+scheren	0							shave			rasieren	rakning		afeitarse	se raser	0.132103906
+scheuren	0							rip			Risse	rEVA		grietas	des fissures	0.431242055
+schokken	0							shocks			Schocks	chock		choques	des chocs	0.9094712482
+schrompelen	0							shrink			schrumpfen	krympa		encogerse	rétrécir	0.7095059964
+separeren	0							to separate			zu trennen	att separera		separar	séparer	0.9103404583
+siepelen	0						alternative spelling of "sijpelen"	play			spielen	sippra		jugar	jouer	0.6676725344
+sijpelen	0							seep			sickern	sippra		filtrar	suintement	0.7955784625
+slibben	0							silt			schluff	slam		limo	limon	0.2315151423
+sluiten	0							Close			schliessen	stänga		cerrar	Fermer	0.54889797
+sollen	0						I didn't know what this one meant; lit. and fig.	to swing/to tease			sollen	bugger omkring		Sollen	sollen	0.09662613252
+soppen	0							sopping			sopping	dip		sopping	couler	0.7368461172
+spatten	0							splashing			Spritzen	stänk		salpicaduras	éclaboussures	0.4128947443
+splijten	0							splitting			spalten	klyver		dividiendo	fractionnement	0.6461440026
+splitsen	0							divide			Split	klyftan		dividir	scission	0.7801417418
+sporen	0							tracks			Spuren	spår		huellas	des traces	0.2936504837
+spreiden	0							to spread			zu verbreiten	att sprida sig		para difundir	se propager	0.3903627586
+sprenkelen	0							sprinkle			streuen	strö		espolvorear	saupoudrer	0.7827045765
+sprietsen	0						I didn't know this one.	skewers			Spieße	sprietsen		pinchos	brochettes	0.590869074
+spuiten	0							spraying			Sprühen	squirt		fumigación	pulvérisation	0.3287272231
+stapelen	0							stacking			Stapeln	stapla upp		apilamiento	empilement	0.3217565464
+steppen	0							steppes			Steppen	steppes		estepas	les steppes	0.7432372813
+stijgen	0							rise			steigen	stiga		levantarse	monter	0.9323723517
+stoten	0							bumps			Beulen	bump		protuberancias	bosses	0.8912341511
+strijken	0							to stroke/to iron			bügeln	järn		planchado	repasser	0.03229666413
+stromen	0							flow			fließt	flöde		fluye	flux	0.8463161103
+strooien	0							scatter			streuen	strö		dispersar	disperser	0.4649329104
+stropen	0							poaching			Wilderei	stjäla		caza furtiva	braconnage	0.9305301358
+stuiten	0							stopping			aufhören	stammen		parando	s'arrêtant	0.291319397
+stuwen	0							to stow			zu verstauen	att stuva		para guardar	arrimer	0.7411573675
+takelen	0							hoists			Hebezeuge	itu		montacargas	palans	0.3703701327
+taxien	0						misspelled; should be "taxiën"	taxi drivers			Taxifahrer	taxichaufförer		taxistas	chauffeurs de taxi	0.3914265959
+togen	0						I didn't know what this one meant; it has a very specific architectural meaning	to give shape to an arch in a building			Zähler	skattade		contador	contre	0.04899684997
+trammen	0							tramways			Straßenbahnen	spårvagn		tranvias	tramways	0.6983448422
+transporteren	0							transport			transport	transport		transporte	transport	0.3665610431
+uitbraken	0							outbreaks			Ausbrüche	kräkas		brotes	les épidémies	0.2278333853
+vellen	0						has two very different meanings; one meaning (to form sheets) would be sort of self-motion except it's specific to liquids (when they dry and you get a sheet/skin on top)	to fell (a tree or animal)/to hew (a tree)/to pronounce (a verdict)/to form sheets			Laken	avverkning		hojas	des draps	0.03353608451
+verdrijven	0							to expel			ausweisen	utvisa		expulsar	expulser	0.0571228184
+veren	0							feathers			Federn	fjädrar		plumas	des plumes	0.2937185009
+versnellen	0							speed up			beschleunigen	påskynda		acelerar	accélérer	0.9011703101
+vervoeren	0							transport			transport	transport		transporte	transporter	0.2507506953
+verwijderen	0							remove			entferne es	ta bort det		removerlo	l'enlever	0.3081646579
+vieren	0							to celebrate			zu feiern	att fira		para celebrar	célébrer	0.53285854
+vlieten	0						I didn't know what this one meant; lit. and fig.	to flow/to pass quickly			fließen	flöde		fluir	couler	0.08786550695
+vloeien	0							flow			fließen	att flöda		fluir	couler	0.1614779141
+voeren (rond)	0							feed (round)			füttern (rund)	mata (runda)		alimentación (redondo)	alimentation (ronde)	0.35310797
+volgen	0							to follow			folgen	att följa		seguir	à suivre	0.1210458421
+voortplanten (zich)	0							reproduce (oneself)			sich reproduzieren	reproducera (sig själv)		reproducirse	se reproduire	0.6562581463
+vorderen	0							progress			Fortschritt	efterfrågan		progreso	progrès	0.5215900948
+vouwen	0							fold			falten	faldigt		doblar	se replier	0.3677781633
+wegscheren	0							to shave away			rasieren weg	raka bort		afeitarse	raser	0.00411834881
+wellen (op)	0							well up			gut auf	väl upp		bien arriba	bien monter	0.1291027029
+wenken	0							beckon			winkt	beckon		hacer señas	faire signe	0.1191773331
+wervelen	0							whirl			Wirbel	virvla runt		girar	tourbillonner	0.9802813845
+wieken	0							wicks			Dochte	vekar		mechas	mèches	0.4386032424
+wielen	0						gramm ambiguous	wheels			Räder	hjul		ruedas	roues	0.2620593246
+wikkelen	0							wrap			wickeln	wrap		envolver	envelopper	0.1551407384
+winden	0							winds			Winde	vind		vientos	les vents	0.8703809761
+wrikken	0							to pry something loose			neugierig	skalle		hacer palanca	faire levier	0.07170733082
+zakken	0							bags			Taschen	lägre		bolsas	des sacs	0.3145575116
+zieden	0							sir			Sir	sjuda		señor	monsieur	0.2486186807
+zijgen	0						I don't know this one	they say			sagen sie	säger de		ellos dicen	ils disent	0.1405856136
+zinken	0						in water or fig.	to sink			sinken	tvättställ		hundirse	couler	0.6151087354
+zwellen	0							to swell			anschwellen	dyning		hincharse	gonfler	0.8335085688
+zwengelen	0							cranking			kurbeln	cranking		arranque	lancer	0.536337039
+balanceren	1	2	0	1	self-motion	1		to balance (something)			ausgleichen	balansering		balanceo	équilibrage	0.03028238099
+bibberen	1	0	0					shiver			Schauer	rysning		estremecerse	frissonner	0.9287972689
+buigen	1	2	0	1			[G] I remember reading a use of this verb in Swedish expressing translational motin, something like "bowing out of the room"	bow	bow; bend over	sich verbeugen; sich verneigen; abbiegen, biegen, abzweigen	Biegen	båge		doblado	se pliant	0.7295858435
+bukken	1	99	0				similar to "buigen"; I would say intransitive only, but Van Dale says it's both	bukken			bukken	bukken		bukken	bukken	0.3101122504
+fronsen	1	99	0				might be just a motion, not a manner of motion; I would say transitive and intransitive, but Van Dale says transitive only	frowning			Stirnrunzeln	korrugera		frunciendo el ceño	fronçant les sourcils	0.921509125
+grissen	1	1	0					Greensen			Greensen	Grekland		Greensen	Greensen	0.8417041963
+huiveren	1	0	0	1			literal meaning is self-motion, figurative meaning isn't	shiver	shudder, tremble		Schauer	rysning		estremecerse	frissonner	0.3761308095
+klappertanden	1	0	0				this is the verb for the movement your teeth make when you're shivering	chattering teeth			Zähne klappern	chattering tänder		dientes castañeteando	claquant des dents	0.8892190383
+reiken	1	2	0				transitive mainly in the figurative sense	to reach			ausstrecken	nå ut		llegar	tendre la main	0.9212047237
+rillen	1	2	0				transitive mainly in the figurative sense	shiver			Schauer	rysning		estremecerse	frissonner	0.9771644324
+rondlummelen	1	0	0				although this one for me implies that someone is stationary	fiddle around			herumtollen	fitta runt		juguetear	bidouiller	0.9528742873
+schommelen	1	2	0	1			has many meanings; some meanings may be self-motion; most commonly used as intransitive verb	to swing/to rock/to fluctuate/to walk in a side-to-side motion	swing; fluctuate; lumber	schaukeln; schwanken; wackeln	schwingen	att svänga	balancearse	balancear	balancer	0.009342799607
+sidderen	1	0	0	1				to tremble (in fear)	tremble; shiver; quake; shudder		zittern	darra		temblar	trembler	0.05488010395
+smakken	1	2	0				has multiple meanings	smack			klatschen	smack		bofetada	claquer	0.8036356515
+trappelen	1	0	0				technically self-motion, but often used figuratively ("ik sta te trappelen" = "I can't wait!")	to kick			zu treten	att sparka		patear	donner un coup de pied	0.8327020646
+wankelen	1	0	0					falter			schwanken	vackla		fallar	vaciller	0.8614505805
+wiegen	1	2	0	1			similar to "schommelen", but can also take an object (usually a baby)	rock	rock; sway; cradle	sich wiegen; schaukeln; wiegen	Rock	lull		roca	rock	0.771217093
+wippen	1	2	0	1			might just be a motion, not a manner of motion; most common as intransitive verb	rocking	hop; bounce; whisk; whip; screw, bang; wobble	hüpfen; huschen; schlüpfen; bumsen; wippen; schaukeln; wackeln; kippeln	Schaukeln	piska		mecerse	bascule	0.2832778926
+wriemelen	1	2	0	1			might apply to people too	wriggle	wriggle; worm, squiggle, squirm, writhe; crawl; fiddle	kribbeln, wimmeln; herumfummeln, fummeln	zappeln	fidget		retorcerse	se tortiller	0.2286135323
+wuiven	1	99	0				might be just a motion, not manner of motion; Van Dale says it's only an intransitive verb, but I would say both	wave			winken	våg		ola	vague	0.9534192681
+zwieren	1	99	0	1			both people and objects can do this action; Van Dale says it's only an intransitive verb, but I would say both	to swing	sway; sweep; whirl	mitschwingen; hin- und herschwingen; schwanken; torkeln; schweben; gleiten	Schaukel	rulle		columpio	balancer	0.09512057348
+banjeren	1	0	1	1	self-motion	0	also figurative meaning	forecastle	pace (up and down)		Vorschiff	skans		castillo de proa	gaillard	0.4512853734
+dartelen	1	0	1	1			might apply to people too.	frisk	romp; frisk; frolic; caper; gambol	tollen; sich tummeln; munter herumpsringen	filzen	Frisk		cachear	gambader	0.292395025
+dobberen	1	0	1	1			misspelled; should be "dobberen", seems quite water related, but not only? [E] no, exclusive to water	dorberen	float; fluctuate	schaukeln; schwanken	Dorberen	byggnadsställningen		Dorberen	Dorberen	0.4116678948
+deinzen	1		1	1			I only know this one specifically with the preposition "terug" as in "terugdeinzen"	to recoil	recoil (from), shrink (back)		Schauder	blyg		estremecerse	frémir	0.07095130673
+dolen	1	0	1	1			similar to "waren"	loop	wander (about); roam; stray	herumirren; umherirren; umherschweifen; irren	Schleife	länk		bucle	boucle	0.6115258182
+drentelen	1	0	1	1				wander around	saunter; stroll	schlendern	herumwandern	vandra runt		vagar alrededor	se promener	0.7265950661
+dwalen	1	0	1				similar to "dolen"	to wander/to be lost			wandern	vandra		vagar	errer	0.01852883408
+emigreren	1	0	1				similar to "migreren"	emigrate			auswandern	utvandra		emigrar	émigrer	0.3515974091
+flaneren	1	0	1	1				stroll	parade	flanieren; bummeln; schlendern	spazieren gehen	driva omkring		pasear	se promener	0.43299025
+gaan	1	0	1				just means "to go"; probably just a motion, not manner of motion	to go			zu gehen	att gå		para ir	aller	0.5485162039
+glibberen	1	0	1	1			misspelled; should be "glibberen"; might just be a motion	glibbfren	slither; slip, slide	glitschen; schlittern; rutschen; gleiten	glibbfren	glibbfren		glibbfren	glibbfren	0.6598499497
+glippen	1	0	1	1			might just be a motion; Van Dale says intransitive only, but I think it might be used transitively too	to slip	slip; slide	rutschen, ausrutschen, ausgleiten; huschen; entgleiten, gleiten, rutschen	ausrutschen	att glida		deslizarse	glisser	0.6451305008
+hinkelen	1	0	1	1				hopscotch	hop; play hopscotch	(auf einem Bein) hüpfen; hopsen	Hopfen	hop		rayuela	la marelle	0.4875817079
+hinken	1	0	1	1				limp	limp; hop	hinken; humpeln; lahmen; (auf einem Bein) hüpfen	schlaff	hobble		cojera	boiteux	0.6325138705
+hoabelen	1	0	1				misspelled; should be "hobbelen"; similar to "hinken"	hawking			Falken	hoabelen		pregonando	colportage	0.9206629734
+huppelen	1	0	1	1			not in Schreuder's list	hop	hop; skip, frolic, frisk, gambol, prance	hüpfen; hopsen; hoppeln; springen	hüpfen	skip		saltar	sautiller	0.475640916
+ijsberen	1	0	1	1			gramm ambiguous	polar bears	pace up and down; pace to and fro	rastlos (in einem Raum) auf und ab gehen	Eisbären	isbjörnar		osos polares	ours polaires	0.4952780581
+joggen	1	0	1	1			not in Schreuder's list	jog	jog	joggen	joggen	jog		trotar	faire du jogging	0.5266234642
+klauteren	1	0	1					scramble			klettern	KRAVLA		revolver	brouiller	0.8734910997
+klimmen	1	0	1	1				to climb			klettern	klättra		escalar	monter	0.03309239087
+kruipen	1	0	1	1				to crawl	creep, crawl / go on all fours, crawl / go on hands and knees		kriechen	krypa		arrastrarse	ramper	0.3064523654
+kuieren	1	0	1					saunter			schlendern	promenad		pasear	flâner	0.948811971
+lopen	1	0	1	1				walk	go / get on (for), go / get on (towards); walk; run	gehen; laufen; rennen	spazieren gehen	gå		caminar	marcher	0.5487500228
+marcheren	1	0	1	1				marching			marschieren	mars		marchando	en marche	0.4289300423
+migreren	1	0	1				may be just a motion, not manner of motion	migrate			migrieren	migrera		migrar	migrer	0.9821867029
+promeneren	1	0	1	1			Misspelled??? Not in Van Dale; [E] I think it's spelled correctly; similar to "flaneren"	promenade	?	?	Promenade	prom ära		paseo	promenade	0.4619339826
+rennen	1	0	1					run			laufen	Kör		correr	courir	0.9355174947
+roetsjen	1	0	1	1				ruts	slide		spuren	vina	deslizar(se)	surcos	les ornières	0.3615472338
+schrijden	1	0	1	1				stride	stride; stalk; strut	schreiten; gehen	Schritt	kliva		zancada	fouler	0.001606404259
+schuifelen	1	0	1	1			has more than one meaning: one meaning is self-motion (walking slowly without lifting your feet), but the other probably isn't (slow-dancing)	shuffle	shuffle; shamble, inch; shift, fidget; smooch	schlurfen; rutschen; schieben	mischen	shuffle		barajar	mélanger	0.4394760348
+sjokken	1	0	1					trudge			trudeln	klack		camino	crapahuter	0.7851677007
+slenteren	1	0	1	1				strolling	stroll; amber; saunter	schelendern; trollen; bummeln	bummeln	saunter		paseando	se promener	0.2437541852
+sluipen	1	0	1	1				to sneak	steal; sneak; slink; skulk; creep	schleichen	schleichen	slink		escabullirse	se faufiler	0.01109195846
+slungelen	1	0	1	1				slouch	slouch, lumber; lounge / idle about; mooch about	schlaksen, stak(s)en	zu verweilen	att dröja kvar		quedarse	s'attarder	0.4863320839
+spoeden	1	0	1	1			Van Dale says it's only intransitive, but I think it might be used transitively as well (similar to "haasten")	to hurry (someone/something)/to rush (someone/something)	speed; hasten; hurry; rush	eilen	Eile	skynda		correr	se précipiter	0.04834356185
+sprinten	1	0	1	1				sprint	sprint; spurt; dash	sprinten; spurten	Sprint	sprint		sprint	sprint	0.223704037
+stappen	1	0	1	1			in Belgium also means specifically "to go out to a bar/club"	to step	step, walk; pace	schreiten; treten; steigen; im Schritt gehen; bummeln	Schritte	steg		pasos	les marches	0.69307028
+stommelen	1	0	1					stumble			stolpern	blunder		tropezar	trébucher	0.9029604431
+strompelen	1	0	1	1				stumble	stumble; totter; hobble; dodder; limp	humpeln; stolpern	stolpern	hobble		tropezar	trébucher	0.2193608641
+tippelen	1	0	1				one meaning is self-motion, the other isn't	tipple			tipple	mars		volquete	tipple	0.9570344109
+trippelen	1	0	1					tripping			Stolpern	toddle		tropezar	faire trébucher	0.8381827293
+waden	1	0	1				but usually in water or some other liquid	wade			wade	Wade		vadear	patauger	0.8873368231
+waggelen	1	0	1	1			mostly used for animals, but can apply to people too	stagger	totter; stagger; waddle; toddle; teeter	wackern; eiern; watscheln	taumeln	vaggande		escalonar	chanceler	0.1778164083
+wandelen	1	0	1	1				hiking	walk, ramble, hike; stroll, amble	spazieren; wandern; spazieren gehen	zu Fuß	gå		caminando	aller à pied	0.5033041101
+zigzaggen	1	0	1					zigzag			Zickzack	sicksackar 		zigzaguear	zigzaguer	0.9876673604
+zwerven	1	0	1	1		1		roam	wander; float, roam, rove, drift; tramp (about / around)	umherstreifen,  streifen,  umherstreichen, streichen; umherziehen,  vagabundieren,  zigeunern	durchstreifen	roam		vagar	errer	0.5193366737
+stormen	1	0	1				not in Schreuder's list; gramm ambiguous; to express motion for people it almost always requires a preposition(al phrase)									
+hardlopen	1	0	1				not in Schreuder's list; similar to "joggen"									
+benen	1	0	99				gramm ambiguous	legs			Beine	benen		piernas	les jambes	0.8695529456
+kiepen	1	0	99	1			essentially the same as "kieperen", except "kieperen" can be transitive	to tip/to fall (over)	tip over, dump; topple		Trinkgeld	tilt		propina	basculement	0.04326233331
+spoken	1	0	99	1				ghosts	(intrans) haunt; prowl (round / about)	spuken; geistern	Geister	håll		fantasmas	fantômes	0.2718841003
+spurten	1	0	99					spurting			spritzen	spurt		chorreando	jaillissant	0.7884226913
+stormen (er op af)	1	0	99	1				rushes (heading for it)	storm; blow; rush; fly	stürmen; stürzen	eilt (auf sie zu)	rusar (på väg till det)		juncos (rumbo a ello)	se précipite (direction)	0.135378137
+struikelen	1	0	99	1				to trip	stumble; trip	stolpern; straucheln; fallen	stolpern	snubblar		tropezar	trébucher	0.3659061606
+waren	1	0	99	1			has multiple meanings; most commonly used in the phrase "de geesten die hier rondwaren", meaning "the ghosts that haunt this place"; similar to "dolen"	to wander/to hang around/to ensure	wander; roam; haunt	schweifen; irren	waren	varor		eran	marchandises	0.1031578143
+zwermen	1	0	99	1			mostly used for animals, but can apply to people too	swarm	swarm; flock	schwärmen; schwirren	Schwarm	svärm		enjambre	essaim	0.6874907578
+dansen	1	2	1					dancing			tanzen	dansen		bailar	danser	0.9210757973
+dribbelen	1	2	1	1			I would say this is a term specific to a type of movement in basketball, but the Van Dale lists other meanings too; basketball meaning may be transitive, others aren't 	to dribble	scurry; dribble		dribbeln	dribbla		driblar	dribbler	0.06741614143
+evacueren	1	2	1				similar to "vluchten"	evacuate			evakuieren	evakuera		evacuar	évacuer	0.2063263737
+glijden	1	2	1	1			Van Dale says intransitive only, but I think it might be used transitively too	to slide	slide; glide; skim; pass; slip	gleiten; rutschen, ausrutschen, ausgleiten; abgleiten, heruntergleiten	schieben	att glida		deslizar	glisser	0.3396470996
+'m smeren	1	1	99				a manner of leaving (usually used only colloquially)	im smearing			ich schmiere	im smearing		estoy manchando	je tache	0.001435012983
+haasten	1	2	1	1			can take an object (e.g. he hurried her along) or not (e.g. he hurried to get there in time), but if not the verb is techinically "zich haasten"	to hurry (someone/something)/to rush (someone/something)			Eile	skynda		correr	se précipiter	0.07325089673
+hollen	1	2	1	1			has multiple meanings; one meaning is transitive, the other (most common) meaning is intransitive	run	about horses: bolt, run away; run, race, pelt		laufen	Kör		correr	courir	0.3132201052
+rollen	1	2	1	1			might just be a motion	roll	roll; tumble	rollen; kugeln; hinabstürzen, stürzen; purzeln	rollen	rulle		rodando	rouler	0.6644943462
+sjezen	1	2	1				has multiple meanings; usually with a vehicle (often a sled); Van Dale says it's both transitive and intransitive, but I only know the intransitive meaning	cheers			Prost	miscarry		saludos	acclamations	0.8833981876
+slepen	1	2	1				applies to people and objects; for people it's only used transitively	to drag			ziehen	blånor		arrastrando	traînant	0.9299310071
+sloffen	1	2	1				gramm ambiguous; Van Dale says it's both transitive and intransitive, but I only know the intransitive meaning	slippers			Hausschuhe	shamble		zapatillas	pantoufles	0.8467138144
+struinen	1	2	1	1			Van Dale says it's both transitive and intransitive, but I only know the intransitive meaning	roam	forage (about / around), rummage (about / around)	herumstreunen; streunen; streichen; streifen	durchstreifen	promenader		vagar	errer	0.5309015629
+trekken	1	2	1				probably just a motion, but may be manner of motion (means pulling but also travelling)	to pull			ziehen	att dra		tirar	tirer	0.8960310678
+vluchten	1	2	1	1			it means escaping, which could be considered a manner of motion or just a motion; Van Dale says it's both transitive and intransitive, but I only know the intransitive meaning	flee	flee; escape; run away; break away	flüchten, fliehen; ausreißen	Flüge	fly		vuelos	les vols	0.3721632716
+walsen	1	2	1	1			has multiple meanings; one meaning ("to waltz") is intransitive, the rest is transitive	rolling	waltz; crush; bulldoze; (trans) roll; steamroller		rollen	rulle		rodando	rouler	0.3615552506
+afstormen	1	2	99				same as "stormen (er op af)"	afstormen			afstormen	afstormen		afstormen	afstormen	0.8834157525
+dringen	1	2	99	1			lit. or fig.	to push (through a crowd/someone away impolitely)/to have a an urge or need of something	(intrans) push; press, shove, squeeze, penetrate	sich drängen; dringen; drängen; drängeln; drücken	dringen	tryck		instar	exhorter	0.03802277376
+flitsen	1	2	99	1			has multiple meanings; one refers to motion, but then is almost exclusively used figuratively (e.g. "my memories flashed before my eyes")	flash			blinken	blixt		flash	flash	0.8448947605
+kieperen	1	2	99	1			essentially the same as "kiepen", except "kiepen" is only intransitive	to tip/to fall (over)	tumble; topple; dump		Trinkgeld	VideoCD		propina	basculement	0.009902116116
+kronkelen	1	2	99	1			for animals, I think this is a transpositional verb; for humans, I don't think it is.	meander	twist; wind; weave; meander; thread; wriggle; squirm	sich winden; sich schlängeln; sich krümmern	schlängeln	våndas		meandro	méandre	0.2299782657
+ploffen	1	2	99	1				to flop/fall softly	thud; pop; flop		Flop	plopp		flop	flop	0.0168503879
+plonzen	1	2	99				similar to "ploffen" but specifically means falling in water	splashes			spritzt	plash		salpicaduras	éclaboussures	0.9412712684
+stampen	1	2	99				has several meanings; only one/some are manners of motion; most meanings are transitive	stamping			Stempeln	beck		estampado	estampage	0.8298560739
+storten	1	2	99	1			it's a manner of throwing something but also of throwing oneself	deposit	fall; crash, dash, rush	stürzen; sich stürzen; sich werfen	einzahlen	insättning		depositar	dépôt	0.3567406534
+draaien	1	99	99	1			used intransitively but mostly for objects and rarely for people	to turn	turn (around/about); twirl, spin, wind; swerve, wheel, swing around; roll; shoot a movie; turn; dial; run; play	sich drehen; biegen; hin und herlaufen; laufen, gehen	drehen	twist		girando	tournant	0.6449754924
+bollen	1						self-motion meaning specific to Belgium; gramm ambiguous	ball			Ball	bollen		bola	balle	0.7973092963
+darren	1			1			I didn't know what this one meant; it has many meanings, only some of which would classify as self-motion	to tease/to wait/to move around busily/to work aimlessly	hover (around)		Darren	darren		Darren	Darren	0.02297541524
+hippen	1			1			I didn't know this one.	hipping	hop	hüpfen; hoppeln; hopsen	hipping	hopping		saltando	hipping	0.6080770758
+hossen	1			1			very specific meaning: to jump up and down with your arms linked with other people	to jump up and down	jig / leap about (arm in arm)	hossen',  untergehakt in einer Reihe tanzen und springen	hossen	hossen		Hossen	hossen	0.1113354618
+ijlen	1			1			I didn't know this one.	rave	hasten; be delirious; ramble, rave	eilen; fantasieren, irrereden, wirr reden	schwärmen	rave		rave	rave	0.6819213552
+jakkeren	1							whine			jammern	overdrive		quejarse	se plaindre	0.8234723122
+kreupelen	1							crumble			zerbröckeln	lame		desmoronarse	crumble	0.9924846751
+laveren	1			1			has more than one meaning: one meaning is self-motion, but the other(s) isn't/aren't	navigating	stagger; reel; totter	met wankelende gang lopen: torkeln,  taumeln	navigieren	klibb	tambalearse	navegando	navigation	0.1591535276
+manken	1			1			similar to "hinken"	limp	limp, hobble	hinken,  humpeln	schlaff	haltande		cojera	boiteux	0.7746577702
+pivoteren	1						fancy way of saying "draaien"	pivot			schwenken	pivot		pivote	pivot	0.9268437886
+raggen	1			1				sting	horse about; mess about	herumtollen; toben; sich tummeln	stechen	Ragg		picadura	piqûre	0.2494921742
+reppen	1			1			has more than one meaning: one meaning is self-motion, but the other(s) isn't/aren't	mention	hurry		zu erwähnen	att nämna		mencionar	mentionner	0.1978486633
+slibberen	1			1			I didn't know what this one meant	to slip/to slide	slip; slither	schlittern	schlickern	att silt		sedimentar	à limer	0.058554423
+snellen	1			1			I didn't know this one.	rush	rush; hurry; run; race	eilen; rennen	Eile	rush		correr	se précipiter	0.7232656189
+stiefelen	1			1			misspelled; should be "stiefelen"	die	hoof it; leg it	stiefeln	sterben	stiefflen		morir	mourir	0.1594650805
+stuiven	1			1			lit. and fig.; only fig. is self-motion	dusting	blow; dash, rush, whiz; make dust	stäuben, stauben, stieben; flitzen, sausen, brausen	Abstauben	damm		polvo	époussetage	0.4767638723
+tjoepen	1						I didn't know this one.	yo			yo	tjoepen		yo	yo	0.8836814554
+tollen	1			1				spinning	spin; whirl; twirl	kreiseln; kreisen; wirbeln	Spinnen	twirling		girando	filer	0.2297553509
+wiegelen	1						similar to "schommelen" and "wrikken"	rock			Schaukeln	sten		mecerse	bascule	0.9100700409
+zwalken	1							to roam			durchstreifen	att vandra		vagar	errer	0.8198890637
+zwalpen	1			1				swallows	surge; dash; roll; gush	wallen; wogen	schluckt	zwalpen		golondrinas	hirondelles	0.3859728251
+zwiepen	1							wagging			wedeln	sus		meneando	remuer	0.9045091188
+zwikken	1						one meaning is probably self-motion (walking unsteadily), the others isn't/aren't	turn around			umdrehen	vänd dig om		dar la vuelta	faire demi-tour	0.8013352291
+beven	1	0	0	1				trembling	shake; tremble; shiver; quiver; quaver	beben; zittern; erbeben; erzittern; schlottern	zittern	darra		temblor	tremblant	0.7080444458
+friemelen	1	2	0	1			misspelled; should be "friemelen"; similar to "wriemelen" & "frunniken"	friemflen			friemflen	friemflen		friemflen	friemflen	0.3520477685
+rekken	1	99	0				Van Dale says it's both transitive and intransitive, but I think the intransitive meaning is exclusive to objects and animals	stretch			strecken	stretch		estiramiento	étirer	0.1736459286
+schudden	1	2	0					to shake			schütteln	skaka		agitar	secouer	0.9217170312
+spartelen	1	0	0	1				to frolic	flounder; flap; trash about	zappeln; hampeln, herumzappeln	toben	att frolica		para divertirse	gambader	0.674225172
+strekken	1	2	0					stretch			strecken	räta		estiramiento	étirer	0.5136142492
+wiebelen	1	2	0				manner of motion, but while stationary (e.g. when trying to balance or when you can't sit still in a chair)	wiggle			wackeln	wobble		meneo	se tortiller	0.5566575649
+woelen	1	2	0				manner of motion, but while stationary (e.g. when trying to find a comfortable position to sleep in); transitive meaning not used commonly	tossing and turning			werfen	toss		lanzando	lancer	0.5914478851
+beklimmen	1	1	1				not in Schreuder's list; similar to "klimmen" but takes an object									
+aflopen	1	1	1				not in Schreuder's list; has multiple meanings; one is self-motion, the other is figurative; self-motion meaning is transitive									
+omdraaien	1	2	0				not in Schreuder's list; similar to "draaien"									
+stuiteren	1	99	99				lit. or fig.; lit. more for objects than people; Van Dale says it's intransitive only, but I think it can be used transitively	bounce			abprallen	studs		rebotar	rebondir	0.9745905424
+neerstorten	1	2	0				not in Schreuder's list; similar to "storten"									
+tuimelen	1	99	99				manner of falling; Van Dale says it's both transitive and intransitive, but I would say only the intransitive meaning is used nowadays	tumble			stürzen	tumla		caer	tomber	0.9036210167
+cirkelen	5		0					circling			einkreisen	cykling		dando vueltas	encerclant	0.393600827
+krioelen	5		0				may apply to people too	banter			Scherz	svärm		bromas	plaisanter	0.9207042439
+kwispelen	5		0					wagging			wedeln	SKÄMTARE		meneando	remuer	0.9058550379
+steigeren	5		0					prancing			tänzelnd	kråma		saltando	caracoler	0.8310636559
+waaieren	5		0	1			apparently something bees do	fanning			Fächern	fläkt-		abanico	attiser	0.5176821118
+draven	5		1				usually used for horses, but may be applied to people too (sarcastically probably)	draven			Trabrennen	trav		trotando	trot	0.785711568
+galopperen	5		1	1			could apply to people to (but probably only when they're trying to imitate a horse)	galloping	gallop; race, run, rush	galoppieren; stampfen	galoppieren	galopp		galopando	galopant	0.2922875754
+slingeren	5		1				most often used for animals or objects, but can be used for people too.	swing			Schaukel	gunga		columpio	balancer	0.8385048525
+vliegen	5		1					travel by plane			fliegen	flyga		volando	volant	0.8234468531
+zwirrelen	5		1	1			I didn't know this one.	swirling			wirbelnd	zwirrelen		girando	tourbillonnant	0.4907188366
+landen	5		99					Nations			Länder	nationer		países	les pays	0.9120203439
+zweven	5		99					float			schweben	float		flotar	flotter	0.9616881291
+stuiptrekken	9		0	1				convulsions	convulse; be / become convulsed	zucken; in Krämpfen liegen	Krämpfe	convulse		convulsiones	convulsions	0.7124603406
+treden	9		0	1			gramm ambiguous	steps			Schritte	steg		pasos	les marches	0.4760942448
+trillen	9		0	1			misspelled; should be "trillen", I think	thilling	vibrate; tremble, shake, quiver, trill	zittern; flirren; beben; vibrieren	Thilling	thillen		thilling	frémissant	0.4464875914
+fladderen	9		1	1			might apply to people too (but only sarcastically, e.g. "waarom fladder je zo om me heen?", "why are you hovering around me?")	flutter	flap about; flutter; flap; murmur	flattern; gaukeln	flattern	flit		revoloteo	palpiter	0.4930027391
+sukkelen	9		1	1			has more than one meaning: one meaning is self-motion (walking clumsily), but the other(s) probably isn't/aren't	stumble	ail; be ailing, be sickly, be an invalid, suffer (from something); muddle along / on; struggle / wrestle with; trudge, plod, shamble (along)	trotten, trödeln; zuckeln, schlendern; sich herumquälen,  sich abquälen,  sich herumplagen,  sich herumschlagen	stolpern	flundra		tropezar	trébucher	0.4445879415
+bengelen	99	0	0					dangle			baumeln	dingla		colgar	pendre	0.4462998342
+bewegen	99	2	0				means "to move", so not sure if it's a manner of motion	move			bewegen	flyttning		movimiento	déménagement	0.1605281972
+blokkeren	99	2	0				it expresses a way of stopping, so not sure if it's a manner of motion	to block			blockieren	blocket		bloque	bloquer	0.7275476189
+flapperen	99	0	0	1			mainly for animals (birds), but might apply to people too	flap	flap		Klappe	klaff		solapa	volet	0.4491673613
+frunniken	99	2	0				similar to "friemelen"	frunniken			frunniken	frunniken		frunniken	frunniken	0.7024102739
+gapen	99	0	0					yawn			Gähnen	gäspning		bostezo	bâiller	0.7607720561
+gebaren	99	2	0				gramm ambiguous	gestures			gebaren	gest		gestos	gestes	0.3077297803
+gesticuleren	99	2	0				fancy word for "gebaren"	gesticulate			gesticuleren	gestikulera		gesticular	gesticuler	0.837513902
+graaien	99	2	0				similar to "grabbelen"; manner of grabbing something	to grab			zu greifen	att ta tag i		agarrar	saisir	0.8691817769
+grabbelen	99	99	0				similar to "graaien"; Van Dale says it's intransitive only, but I think it might be used transitively too	to search for something in a container with your hands			schnapp es dir	ta tag i det		agarralo	attrape-le	0.08873776005
+grijpen	99	2	0				but most commonly used transitively	grab			schnapp es dir	ta tag i det		agarralo	attrape-le	0.2807569933
+knikkebollen	99	0	0	1			it's a manner of falling asleep	nodules			Knoten	nod		nódulos	nodules	0.2105220971
+kolken	99	0	0				manner of motion, but only of objects	swirl			Wirbel	virvla runt		remolino	tourbillonner	0.6162725214
+krabbelen	99	2	0	1			has more than one meaning: one meaning is self-motion and intransitive, but the other(s) isn't/aren't	scribble	scrawl; scribble, scrabble; skate clumsily	kratzen; mühselig Eis laufen	kritzeln	scribble		garabato	griffonner	0.291203173
+kwakken	99	2	0	1			has multiple meanings; one is a manner of throwing something	quack		plumpsen; schmettern, donnern, knallen	Quacksalber	kwakken		quack	charlatan	0.1450941572
+leggen	99	1	0					to lay			zu legen	att lägga		para poner	poser	0.4256712006
+mijden	99	1	0					shun			meiden	undvika		rehuir	fuir	0.9547872859
+neerploffen	99	2	0				probably just a motion, not manner of motion	to fall down			herunterfallen	att falla ner		caer	tomber	0.5153971073
+opdagen	99	2	0				Van Dale says it's both transitive and intransitive, but the transitive meaning is not used very commonly	show up			auftauchen	dyker upp		aparecer	se présenter	0.4042832245
+opdoemen	99	0	0				lit. or fig.	to loom/to see in one's mind's eye			auftauchen	truer upp		acechando	se dresser	0.04053882605
+opdonderen	99	2	0				Van Dale says it's both transitive and intransitive, but the transitive meaning is not used very commonly	to beat up			verprügeln	att slå upp		golpear	battre	0.2860616004
+opduvelen	99	0	0	1			manner of motion, but usually something someone tells you to do ("Go away!"), not something you do voluntarily	pop up	get lost; clear off; buzz off	verduften; abhauen	Pop-up	dyka upp		pop up	pop up	0.7395871974
+ophoepelen	99	0	0					hopping up			aufspringen	hoppar upp		saltando	sautiller	0.2493851344
+opkrassen	99	0	0				manner of motion, but usually something someone tells you to do ("Go away!"), not something you do voluntarily	scratch up			zerkratzen	skrapa upp		arañar	gratter	0.6060633486
+opsodemieteren	99	0	0				manner of motion, but usually something someone tells you to do ("Go away!"), not something you do voluntarily	smack up			klatschen	smacka upp		matarse	faire claquer	0.489750569
+opstaan	99	0	0	1				to rise/to stand up/to get out of bed			steh auf	stå upp		levantarse	se lever	0.02768104823
+rondneuzen	99	0	0				fig.; means to look around curiously and get into other people's business	poking around			herumstochern	poking runt		hurgando alrededor	fouiller	0.8262922967
+rukken	99	2	0	1			it's a manner of pulling on something; has multiple meanings	jerking	(intr) jerk (at); tug, pull; masturbate	zerren; reißen; wichsen; rücken	zucken	rycka		sacudidas	secousses	0.1949683335
+schokschouderen	99	0	0				I didn't know this one.	shock			Schock	stöt axlar		conmoción	choc	0.4665953519
+sodemieteren	99	2	0				similar to "opsodemieteren"	sodemite			Sodemit	bugger		sodemita	sodémite	0.9451431612
+stoppen	99	2	0				has multiple meanings; means a.o. "to stop", so not sure if it's self-motion	stop			zu stoppen	att sluta		para parar	arrêter	0.9582540247
+verroeren (zich)	99	1	0				usually used in the negative "hij verroerde zich niet", which means "to stay put"	move (oneself)			sich bewegen	flytta (sig själv)		mover (uno mismo)	bouger (soi-même)	0.6159919795
+vibreren	99	99	0	1			manner of motion; intransitive sense could be for animals, but maybe only for objects, not humans; transitive sense for humans	vibrate	vibrate; quaver; trill; vibrate; quiver	vibrieren; schwingen; zittern	vibrieren	vibrera		vibrar	vibrer	0.6774458419
+wegjagen	99	1	0					scare off			verjagen	jaga bort		ahuyentar	chasser	0.5970436
+wenden	99	99	0	1			intransitive sense could be for animals, but maybe only for objects, not humans; transitive sense for humans	turn		wenden	abbiegen	sväng		girar	tourner	0.4228560574
+wentelen	99	99	0	1			intransitive sense could be for animals, but maybe only for objects, not really humans; transitive sense for humans	to roll	turn; roll; rotate, revolve	sich drehen, rotieren; wälzen, drehen	rollen	att rulla		rodar	rouler	0.1736041839
+wijzen	99	2	0	1			one meaning may be self-motion (to point), but the other isn't	to point/to become clear			darauf hinweisen	påpeka		señalar	montrer	0.08403820862
+wriggelen	99	1	0				alternative spelling of "wrikkelen"	wriggle			zappeln	våndas		retorcerse	se tortiller	0.862866603
+wroeten	99	2	0	1				to root around	root; rout, snout, burrow	wühlen; stochern, matschen, graben; buddeln	Verwurzelung	grub		enraizamiento	enracinement	0.05161033607
+zwaaien	99	2	0				probably just a motion, not manner of motion	to wave			winken	våg		ola	vague	0.65380714
+zwenken	99	2	0	1				turn around	swerve; pivot, wheel; sheer	schwenken	umdrehen	vänd dig om		dar la vuelta	faire demi-tour	0.2526602355
+zwoegen	99	0	0				describes a way of doing something (incl. motion)	toil			Mühe	slit		trabajar	labeur	0.7018941552
+begeven (zich)	99	1	1					go (himself)			geh (selbst)	gå (själv)		ir	aller (lui-même)	0.2123398353
+binnenstormen	99	0	1	1			stormen conveys the manner, but "binnen" is just giving a path	barge in			stürmen	rusar in		correr en	se précipiter dans	0.6218190756
+brengen	99	1	1					bring			zu bringen	att ta med		traer	apporter	0.2512547651
+dwarrelen	99	0	1				manner of motion, but only of objects	whirl			Wirbel	virvel		girar	tourbillonner	0.5792861835
+komen	99	0	1					come			komm	komma		venir	viens	0.9556968739
+ontsnappen	99	0	1	1			it means escaping, which could be considered a manner of motion or just a motion	escape	escape (from); slip, elude; break away (from)	entgehen; entkommen; entwischen; entweichen; ausreißen	Flucht	escape		escapar	s'évader	0.3906155006
+ontvluchten	99	1	1	1			[G] We already have vluchten in, so ontvluchten seems redundant and adding path information	flee			fliehen	fly		huir	fuir	0.7593016985
+gooien	99	1	1					throw			werfen	kasta		tirar	jeter	0.2739516901
+halen	99	1	1					get it			Hol es dir	få det		conseguirlo	l'obtenir	0.2618017896
+racen	99	0	1				could be self-motion, but I'd often assume a person was in a vehicle or on a bike	to race			Rennen	racing		carreras	course	0.8346022999
+reizen	99	0	1				probably just a motion, not manner of motion	to travel			Reisen	resor		viajando	Voyager	0.5372891847
+schaatsen	99	0	1					ice skating			Skaten	skridsko		patinaje	le patinage	0.6348241377
+skiën	99	0	1				misspelled; should be "skiën"	to ski			Skifahren	skidåkning		esquiando	le ski	0.6117082392
+springen	99	0	1				probably just a motion, not manner of motion	to jump			springen	hoppa		saltar	sauter	0.4913467566
+vallen	99	0	1					fall			fallen	höst		caer	tomber	0.1780474738
+leiden	99	1	1					lead			führen	leda		liderar	conduire	0.8989727081
+zeilen	99	0	1				in water on a sailing boat	to sail			segeln	segel		navegando	la voile	0.763311137
+zwemmen	99	0	1				in water	swimming			schwimmen	simning		nadando	nager	0.6446847906
+afdalen	99	0	1				not in Schreuder's list; similar to "dalen"									
+afstevenen	99	0	99	1			[G] more of a path verb	head for	make for; head for	lossteuern (auf); zusteuern (auf)	Kopf für	chef för		dirigirse a	se diriger vers	0.4344822643
+arriveren	99	0	99		path	1		arrive			ankommen	anländer		llegar	arriver	0.6946742679
+buitelen	99	0	99				manner of falling off something, but can also be in water	tumbling			taumeln	tumla		dando vueltas	tumbling	0.8893884362
+dalen	99	0	99				gramm ambiguous;	to decline/to descend/to go down/to sink/to wane/to lower			fallen	dalen		caer	tomber	0.05634590807
+kletteren	99	0	99				manner of motion for objects, but not sure if this verb is used forpeople/animals too	clatter			klappern	skrammel		repiqueteo	cliquetis	0.7001213911
+kukelen	99	0	99				two meanings; one is a manner of falling	kukelen			Kukelen	kukelen		Kukelen	Kukelen	0.8769867127
+slippen	99	0	99				usually something that happens accidentally	to slip			ausrutschen	att glida		deslizarse	glisser	0.9012243086
+wijken	99	0	99				gramm ambiguous; probably just a motion, not manner of motion	give way			nachgeben	ge vika		ceder	céder le passage	0.6517098375
+douwen	99	2	1	1			it's a manner of pushing something; mostly just an alternatively spelling of "duwen" but has connotations of being rude	douwen			Douwen	bash		Douwen	douwen	0.3657056675
+duwen	99	2	1				possibly just a motion, not manner of motion	to push			drücken	att trycka		empujar	pousser	0.4867557954
+sjouwen	99	1	1	1			it's a particular way of carrying something	carry	(intrans) lug; drag		schleppen	bära		cargando	traîner	0.3124638787
+kaatsen	99	2	1				has more than one meaning: one meaning may be self-motion (throwing something), but the other(s) probably isn't/aren't	bounce			abprallen	studs		rebotar	rebondir	0.6087295021
+kogelen	99	2	1	1			it's a manner of throwing something	to throw/to shoot	hurl; throw; rocket	sausen; schmeißen; knallen, hämmern	puffen	kogelen		inflado	soufflant	0.103080884
+manoevreren	99	2	1	1			misspelled; should be "manoeuvreren"	maneuvering			Manövrieren	manoevkeren		maniobrando	manoeuvre	0.7531726032
+oversteken	99	2	1			1	probably just a motion, not manner of motion	cross over			überqueren	korsa över		cruzar	Croix	0.4690587522
+passeren	99	2	1					pass			durchgehen	gå igenom		pasar a través	passer à travers	0.7122209741
+rijden	99	2	1					to drive			fahren	ride		conducir	rouler	0.7237281038
+roeien	99	2	1					rowing			Rudern	rodd		remando	ramer	0.1859592907
+sjorren	99	2	1	1			it's a manner of pulling something	lashing			peitschen	lash		fustigar	fouetter	0.4313186407
+varen	99	2	1				gramm ambiguous; in water/on a boat or ship	sail			segeln	segel		navegar	naviguer	0.7810651605
+verplaatsen	99	1	1					move			bewegen	flyttning		mover	déplacer	0.3795112394
+vertrekken	99	2	1					to leave			gehen lassen	lämna		dejar	partir	0.05544545957
+werpen	99	1	1					throw			werfen	kasta		tirar	jeter	0.3506674509
+zeulen	99	2	1	1			it's a particular way of carrying something	dragging		schleppen	ziehen	tease		arrastrando	traînant	0.7661728164
+jagen	99	2	99					to hunt			jagen	att jaga		cazar	chasser	0.9866903065
+naderen	99	2	99					approaching			nähern	tillvägagångssätt		acercándose	approchant	0.1275997933
+verhuizen	99	2	99					moving away			ausziehen	flytta ut		mudarse	déménager	0.26645391
+wringen (zich)	99	2	99				has many meanings; some may be self-motion	wring (oneself)			wringen (sich selbst)	vrida (sig själv)		retorcer (uno mismo)	se tordre	0.8499734255
+wurmen	99	2	99	1			might apply to people too	worms	w(r)iggle; squeeze; worm	drängen; zwängen; winden; fummeln	Würmer	maskar		gusanos	vers	0.3208014766
+dragen	99	99	1				Van Dale says it's both transitive and intransitive, but the intransitive meaning doesn't apply to people	to wear			tragen	slitage		llevar	porter	0.6884367222
+bereiken	99	1	99					to achieve			zu erreichen	att uppnå		para lograr	pour atteindre	0.142092727
+keilen	99	99	1				manner of throwing; Van Dale says it's both transitive and intransitive, but the intransitive meaning doesn't apply to people	throw it			wirf es	kasta den		tirarlo	le jeter	0.8981713311
+koppen	99	99	1	1			has multiple meanings; Van Dale says it's both transitive and intransitive, but the intransitive meanings don't apply to people	headlines			Schlagzeilen	huvud		titulares	titres	0.1391110437
+heffen	99	1	99				one meaning may be self-motion (to lift), but the other isn't	to lift/to levy (taxes, a fee, interest)			Heben	höja		levantamiento	levage	0.05324686221
+hijsen	99	1	99					hoisting			Heben	lyftanordning		levantamiento	levage	0.7156863359
+kruien	99	99	1				both transitive and intransitive, but transitive meaning is more common	crosses			Kreuze	Wheeling		cruces	croix	0.4557179245
+ploetfren	99	99	1				misspelled; should be "ploeteren"; Van Dale says it's both transitive and intransitive, but I only know the intransitive meaning	splattering			bespritzen	ploetfren		salpicadura	éclaboussures	0.4420772054
+schuiven	99	99	1				probably just a motion, not manner of motion; Van Dale says it's both transitive and intransitive, but the transitive meaning is the most common one	to scroll			scrollen	att rulla		para desplazarse	faire défiler	0.558461672
+lanceren	99	1	99					launch			starten	lansering		lanzamiento	lancer	0.2228195856
+sleuren	99	99	1				it's a particular way of carrying something; Van Dale says it's both transitive and intransitive, but the transitive meaning is the most common one	dragging			ziehen	dra		arrastrando	traînant	0.6201015323
+smijten	99	99	1				probably just a motion, not manner of motion; Van Dale says it's both transitive and intransitive, but the intransitive meaning is apparently only for animals	fling			schleudern	fling		arrojar	jeter	0.5287564856
+pleuren	99	1	99	1			it's a manner of throwing something	to play			zu spielen	att spela		para jugar	jouer	0.3752707979
+tillen	99	99	1				Van Dale says it's both transitive and intransitive, but the transitive meaning is the most common one	lifting			Heben	lift		levantamiento	levage	0.2843418267
+toeren	99	99	1				gramm ambiguous; could be self-motion, but usually it's used with a vehicle of some kind ("Hij toerde met de auto door Engeland", "He drove around England"); both transitive and intransitive, but intransitive meaning is most common	touring			touren	rpm		de gira	en tournée	0.8445479115
+verlaten	99	99	1				probably just a motion, not manner of motion; Van Dale says it's both transitive and intransitive, but the transitive meaning is the most common one	leave			gehen lassen	lämna		dejar	partir	0.6159694978
+zenden	99	99	1				Van Dale says it's both transitive and intransitive, but the transitive meaning is the most common one	send			senden	skicka		enviar	envoyer	0.8083030486
+afleggen	99	1	99				has multiple meanings; Van Dale says it's both transitive and intransitive, but the transitive meaning is the most common one	discard			verwerfen	lock		desechar	jeter	0.9730534599
+neerstrijken	99	99	99	1			has multiple meanings, some of which may be self-motion; Van Dale says it's both transitive and intransitive, but the intransitive meaning is the most common one	settle down	alight; settle (on); perch (on)	sich niederlassen; sich hinsetzen	lass dich nieder	slå sig ner		establecerse	s'installer	0.2394498789
+boemelen	99						I didn't know this one	debauch			debauch	debauch		debauch	debauch	0.7840542764
+drommen	99						one meaning is probably self-motion, the other isn't	drove			fuhr	skaror		condujo	conduit	0.9232042693
+hotsen	99			1				hotsen	jolt; jerk, bump, jog, joggle	rumpeln; rütteln	hotsen	skakning		Hotsen	hotsen	0.1831232947
+opensperren	99							open up			aufmachen	öppna upp		abrir	ouvrir	0.9862435712
+tijgen	99						probably just a motion, not manner of motion	tigers			Tiger	tijgen		tigres	tigres	0.5130345347
+tjoempen	99						has more than one meaning: one meaning may be self-motion (particular way of falling), but the other probably isn't	chirp			zwitschern	tjoempen		chirrido	gazouillis	0.6343364784
+traverseren	99						old-fashioned	traversing			durchqueren	passera		atravesando	traversant	0.7067681128
+trippen	99						alternative spelling of "trappen", meaning "to kick"	tripping			Stolpern	utlösning		tropezar	faire trébucher	0.7602673412
+vlieden	99						probably just a motion, not manner of motion	flee			fliehen	fly		huir	fuir	0.5407183088
+wiggelen	99						synonym of "waggelen" and "wrikken"	wiggle			wackeln	wiggelen		meneo	se tortiller	0.9291651077
+krabben	99	2	0				not in Schreuder's list; similar to "krabbelen"									
+scharrelen	99	99	99	1			misspelled; should be "scharrelen"; has multiple meanings; most commonly used for animals (chickens), but can be used (often sarcastically) for people; Van Dale says it's both transitive and intransitive, but the intransitive meaning is the most common one	scrape			kratzen	scharpelen		raspar	gratter	0.7598901084
+uitrekken	99	2	0				not in Schreuder's list									
+aungelen							not a word in Dutch	to sing			zu singen	att sjunga		cantar	chanter	0.1600588234
+de inzen							misspelled; should be "deinzen"; duplicate	de inzen			de inzen	de inzen		de inzen	de inzen	0.8219047831
+khauwelen							not a word in Dutch	kuwait			kuwait	khauwelen		kuwait	Koweït	0.1335679923
+kippen							only know this word form as a plural noun (means "chickens"), not as a verb	chickens			Hühner	kycklingar		pollos	poulets	0.2501784364

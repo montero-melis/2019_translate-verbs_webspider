@@ -1,0 +1,13 @@
+Column	ForAnnotation	Description	PossibleValues
+Dutch_verb	n	Dutch verbs	
+IsMannerOfMotion	y	Does the verb describe a human/animal way of self-motion?	0=no,  1=yes, 5=animal (non-human) motion only, 9=probably not optimal, 99=unsure
+IsTransitiveOrIntransitiveVerb	y	Does the verb take an object?	0=intransitive, 1=transitive, 2=both, 99=unsure
+IsTranspositionVerb	y	Apply Levelt et al.'s (1978, p.139-140) via-test: "They verbed via...". Note that we add the additional constraint that it has to be intransitive (i.e., verb doesn't take an object argument)	0=no, 1=yes, 99=unsure
+Category	y	Rough category of the verb	We need to come up with a good set of categories and abbreviations
+IsEnCorrect	y	Is the English translation correct?	0=no, 1=yes, 5=only very roughly, 99=unsure
+Comment	y	Any other relevant comment/observation you want to add. You can comment on other translations beside English here.	Free
+en	n	translation from GoogleTranslate	
+de	n	translation from GoogleTranslate	
+sv	n	translation from GoogleTranslate	
+es	n	translation from GoogleTranslate	
+fr	n	translation from GoogleTranslate	
