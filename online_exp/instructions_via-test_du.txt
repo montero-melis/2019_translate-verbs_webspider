@@ -1,0 +1,21 @@
+Je krijgt straks een lijst met zinnen van de volgende vorm: 
+
+"Zij [werkwoorden] via..." 
+
+In elke zin wordt een ander werkwoord gebruikt. In deze taak is het de bedoeling dat je op de plaats van de puntjes met één of meer woorden de zin op een zo natuurlijk mogelijke manier voltooit. 
+
+Hieronder zie je een aantal voorbeelden:   
+
+"Zij liepen via..." kun je zo afmaken: "Zij liepen via de winkel naar huis."
+
+"Zij klommen via..." kun je zo afmaken: "Zij klommen via de helling naar het topje van de berg."
+
+Het zal niet altijd mogelijk zijn de zin op een natuurlijke manier te voltooien. Bijvoorbeeld:
+"Zij gaapten via..." In dat geval kun je als antwoord "X" typen.
+
+Klik op "Volgende" om te beginnen.
+
+
+-------------------------
+
+"Zij [VERB] via..." 
