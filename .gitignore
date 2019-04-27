@@ -3,6 +3,9 @@
 *.pdf
 *xlsx
 
+# Exceptions
+!paridon_retrieve_manner_verbs_190415.pdf
+
 # R
 *.Rhistory
 *test.R
