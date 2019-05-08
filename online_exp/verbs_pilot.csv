@@ -1,20 +1,21 @@
-lopen
-haasten
-marcheren
-glibberen
-dansen
-trekken
-slingeren
-hardlopen
-dolen
-schuifelen
-afstormen
-klimmen
-wijken
-spoeden
-kuieren
-glippen
-banjeren
-afdalen
-walsen
-sluipen
+feature,negation,via
+lopen,lopen niet,lopen
+haasten,haasten niet,haasten
+marcheren,marcheren niet,marcheren
+glibberen,glibberen niet,glibberen
+dansen,dansen niet,dansen
+trekken,trekken niet,trekken
+slingeren,slingeren niet,slingeren
+hardlopen,lopen niet hard,lopen hard
+dolen,dolen niet,dolen
+schuifelen,schuifelen niet,schuifelen
+klimmen,klimmen niet,klimmen
+wijken,wijken niet,wijken
+spoeden,spoeden niet,spoeden
+kuieren,kuieren niet,kuieren
+glippen,glippen niet,glippen
+banjeren,banjeren niet,banjeren
+afdalen,dalen niet af,dalen af
+walsen,walsen niet,walsen
+sluipen,sluipen niet,sluipen
+roetsjen,roetsjen niet,roetsjen
