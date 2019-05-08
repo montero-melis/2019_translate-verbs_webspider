@@ -76,7 +76,7 @@ Woorden definiëren
 Instructions screen
 ------------------
 
-Instructies
+**Instructies**
 
 Tijdens deze taak krijg je een lijst met Nederlandse werkwoorden. Het is de bedoeling dat je een definitie geeft van deze woorden. De definitie moet er niet uitzien alsof deze rechtstreeks uit een woordenboek komt. We willen in plaats daarvan graag dat je de woorden definieert door gebruik te maken van kenmerken (zie het voorbeeld hieronder). 
 
@@ -85,19 +85,19 @@ Gebruik voor elk kenmerk zo weinig mogelijk woorden. De kenmerken die je geeft m
 Hieronder staat een voorbeeld:
 
 "schrijven"
-communicatie
-actie
-op papier
-met een pen/potlood
-gebruikt woorden
-expressie
-gedaan door mensen
-met handen
-...
+- communicatie
+- actie
+- op papier
+- met een pen/potlood
+- gebruikt woorden
+- expressie
+- gedaan door mensen
+- met handen
+- ...
 
 Let op! Dit is geen test over woordassociaties. Vermijd associaties van het woord als deze niet bijdragen aan het geven van de definitie of bij het beschrijven van de betekenis van het woord.
 
-Voor elk werkwoord krijg je straks 10 antwoordvelden, maar je kan zelf nog antwoordvelden toevoegen als dat nodig is. Vul per antwoordveld één kenmerk in. 
+Voor elk werkwoord krijg je straks 10 antwoordvelden, maar je kan zelf nog antwoordvelden toevoegen als dat nodig is. Vul per antwoordveld één kenmerk in.
 
 Elk werkwoord verschijnt straks op een eigen scherm en het is niet mogelijk om terug te keren naar een eerder werkwoord. Denk dus goed na over je antwoord voor je doorgaat naar het volgende scherm. Het is echter ook niet nodig om heel lang na te denken over één werkwoord. Neem per woord genoeg tijd om de meest relevante kenmerken op te schrijven en ga dan verder.
 

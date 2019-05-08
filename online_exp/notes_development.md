@@ -5,6 +5,7 @@ Notes for experiment development (together with Maarten van Heuvel)
 Questions to Maarten
 --------------------
 
+- Don't know how to run new exp on Chrome. Once it's finished it will always reload the final slide "Einde van het experiment"
 
 
 To do - Frinex
