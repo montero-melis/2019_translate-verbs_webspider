@@ -1,18 +1,36 @@
-190427
-
-Notes for experiment development by Maarten van Heuvel
+Notes for experiment development (together with Maarten van Heuvel)
 ======================================================
 
-Add
----
 
-- Add Comments screen at the end: 
-"Do you have any comments on the tasks you just did? Was there anything unclear? Please let us know so we can change it!"
+Questions to Maarten
+--------------------
 
 
-Decisions
----------
 
-- Number of required fields (using regex)
-- Number of empty fields
-- Counterbalancing of tasks/blocks?
+To do - Frinex
+--------------
+
+### Guillermo
+
+- Instructions need some formatting: At least new lines. Are italics or bold possible?
+- Default: 10 fields (rather than 5)
+- Exp2 / Exp1 Needs to be replaced with "negation task" / "feature task"
+
+
+### Maarten
+
+- Counterbalancing of tasks/blocks
+- On transitions to the new experiment, a screen is half visible...
+
+
+
+To do - experiment setup
+-----------------------
+
+
+
+
+To add later on (after pilot)
+-----------------------------
+
+- Catch trials?
