@@ -1,0 +1,66 @@
+<!-- stimuli for FEATURE task -->
+<stimulus identifier="feature1" label="lopen" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature2" label="haasten" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature3" label="marcheren" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature4" label="glibberen" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature5" label="dansen" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature6" label="trekken" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature7" label="slingeren" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature8" label="hardlopen" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature9" label="dolen" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature10" label="schuifelen" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature11" label="klimmen" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature12" label="wijken" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature13" label="spoeden" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature14" label="kuieren" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature15" label="glippen" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature16" label="banjeren" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature17" label="afdalen" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature18" label="walsen" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature19" label="sluipen" pauseMs="0" tags="feature_task"/>
+<stimulus identifier="feature20" label="roetsjen" pauseMs="0" tags="feature_task"/>
+
+<!-- stimuli for NEGATION task -->
+<stimulus identifier="negation1" label="Zij lopen niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation2" label="Zij haasten niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation3" label="Zij marcheren niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation4" label="Zij glibberen niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation5" label="Zij dansen niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation6" label="Zij trekken niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation7" label="Zij slingeren niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation8" label="Zij lopen niet hard, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation9" label="Zij dolen niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation10" label="Zij schuifelen niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation11" label="Zij klimmen niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation12" label="Zij wijken niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation13" label="Zij spoeden niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation14" label="Zij kuieren niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation15" label="Zij glippen niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation16" label="Zij banjeren niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation17" label="Zij dalen niet af, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation18" label="Zij walsen niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation19" label="Zij sluipen niet, maar zij..." pauseMs="0" tags="negation_task"/>
+<stimulus identifier="negation20" label="Zij roetsjen niet, maar zij..." pauseMs="0" tags="negation_task"/>
+
+<!-- stimuli for VIA task -->
+<stimulus identifier="via1" label="Zij lopen ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via2" label="Zij haasten ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via3" label="Zij marcheren ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via4" label="Zij glibberen ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via5" label="Zij dansen ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via6" label="Zij trekken ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via7" label="Zij slingeren ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via8" label="Zij lopen ... hard via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via9" label="Zij dolen ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via10" label="Zij schuifelen ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via11" label="Zij klimmen ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via12" label="Zij wijken ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via13" label="Zij spoeden ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via14" label="Zij kuieren .... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via15" label="Zij glippen .... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via16" label="Zij banjeren ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via17" label="Zij dalen ... af via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via18" label="Zij walsen ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via19" label="Zij sluipen ... via ..." pauseMs="0" tags="via_task"/>
+<stimulus identifier="via20" label="Zij roetsjen ... via ..." pauseMs="0" tags="via_task"/>
+
