@@ -5,7 +5,9 @@ Notes for experiment development (together with Maarten van Heuvel)
 Questions to Maarten
 --------------------
 
-- Don't know how to run new exp on Chrome. Once it's finished it will always reload the final slide "Einde van het experiment"
+- Something off with Exp in Firefox - not working properly
+- How to deal with reloading the final slide "Einde van het experiment" when it's finished? It's important for testing, but should not be there when run for real
+- The fields "Nieuw veld" and "Volgende" overlap and that looks ugly -- increase the space between them
 
 
 To do - Frinex
@@ -13,22 +15,20 @@ To do - Frinex
 
 ### Guillermo
 
-- Instructions need some formatting: At least new lines. Are italics or bold possible?
-- Default: 10 fields (rather than 5)
-- Exp2 / Exp1 Needs to be replaced with "negation task" / "feature task"
+- Load the right stimuli from the verbs4pilot file
 
 
 ### Maarten
 
-- Counterbalancing of tasks/blocks
-- On transitions to the new experiment, a screen is half visible...
+- Counterbalancing of tasks/blocks -- how do we solve it?
 
 
 
 To do - experiment setup
 -----------------------
 
-
+- Add actual DURATION estimate + PAYMENT to the consent form
+- Instructions: add "This is the last task." before via-task
 
 
 To add later on (after pilot)

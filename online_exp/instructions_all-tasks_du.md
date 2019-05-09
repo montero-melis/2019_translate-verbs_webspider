@@ -136,7 +136,7 @@ In elke zin wordt een ander werkwoord gebruikt. Het is de bedoeling dat je op de
 
 Hieronder zie je twee voorbeelden:
 
-"Zij eten niet, maar zij …" kun je zo afmaken: "Zij eten niet, maar zij *drinken*."
+"Zij eten niet, maar zij ..." kun je zo afmaken: "Zij eten niet, maar zij *drinken*."
 
 "Zij slapen niet, maar zij ..." kun je zo afmaken: "Zij slapen niet, maar zij *rusten*."
 
@@ -168,19 +168,17 @@ Tijdens deze taak krijg je een lijst met zinnen van de volgende vorm:
 
 In elke zin wordt een ander werkwoord gebruikt. Het is de bedoeling dat je de zin op een zo natuurlijk mogelijke manier voltooit. Dit doe je door in elk geval op de plaats van de puntjes ná het woord "via" één of meerdere woorden in te vullen. Je mag ook op de plaats van de puntjes vóór het woord "via" één of meerdere woorden invullen, als je vindt dat de zin dan natuurlijker klinkt.
 
-Hieronder zie je een aantal voorbeelden:   
+Hieronder zie je een aantal voorbeelden:
 
-"Zij rijden … via …" kun je zo afmaken: "Zij rijden via de winkel naar huis."
+"Zij rijden ... via ..." kun je zo afmaken: "Zij rijden *via de winkel naar huis*."
 
-"Zij roeien … via ..." kun je zo afmaken: "Zij roeien naar de kant via het eilandje."
+"Zij roeien ... via ..." kun je zo afmaken: "Zij roeien *naar de kant via het eilandje*."
 
 Let op! Typ als antwoord de gehele voltooide zin en niet alleen wat je op de puntjes zou invullen. Dus: "Zij roeien naar de kant via het eilandje" en niet "naar de kant het eilandje".
 
 Als het niet mogelijk is de zin op een natuurlijke manier te voltooien, typ dan "X" als antwoord. Dit is bijvoorbeeld het geval bij de volgende zin:
 
-"Zij gapen … via ..." 
-
-Typ dan dus: "X".
+"Zij gapen ... via ..." Typ dan dus: "X".
 
 Elke zin verschijnt straks op een eigen scherm en het is niet mogelijk om terug te keren naar een eerdere zin. Denk dus goed na over je antwoord voor je doorgaat naar het volgende scherm. 
 
