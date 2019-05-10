@@ -29,6 +29,7 @@ To do - experiment setup
 
 - Add actual DURATION estimate + PAYMENT to the consent form
 - Instructions: add "This is the last task." before via-task
+- Add Lilia Risman's instrument verbs
 
 
 To add later on (after pilot)
