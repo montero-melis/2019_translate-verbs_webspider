@@ -205,9 +205,7 @@ Zo ja, laat het ons hieronder weten zodat we de taak kunnen verbeteren!
 Einde van het experiment
 ===================
 
-Dit is het einde van het experiment.
-Hartelijk dank voor je deelname! 
+Dit is het einde van het experiment. Hartelijk dank voor je deelname! 
 
-
-Het bovenstaande nummer is het bewijs dat je het experiment hebt voltooid. Stuur dit nummer in een e-mailt naar de experimentleider (Eva Poort: Eva.Poort@mpi.nl). Zonder dit nummer kunnen we niet controleren of je het experiment gedaan hebt en kunnen we je dus niet betalen.
+Het bovenstaande nummer is het bewijs dat je het experiment hebt voltooid. **Stuur dit nummer in een e-mail naar de experimentleider Eva Poort: Eva.Poort@mpi.nl).** Zonder dit nummer kunnen we niet controleren of je het experiment gedaan hebt en kunnen we je dus niet betalen!
 
