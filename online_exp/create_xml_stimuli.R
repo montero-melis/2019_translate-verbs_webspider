@@ -10,7 +10,7 @@ verbs
 
 
 ## create output file
-file.create("online_exp/stimuli_xml.txt")
+file.create("online_exp/stimuli_xml.xml")
 
 
 ## feature task
@@ -24,11 +24,11 @@ feature_xml <- paste(
 head(feature_xml)
 
 # Write to disk
-cat("<!-- stimuli for FEATURE task -->", file = "online_exp/stimuli_xml.txt",
+cat("<!-- stimuli for FEATURE task -->", file = "online_exp/stimuli_xml.xml",
     sep = "\n", append = TRUE)
-write.table(feature_xml, file = "online_exp/stimuli_xml.txt", quote = FALSE,
+write.table(feature_xml, file = "online_exp/stimuli_xml.xml", quote = FALSE,
             col.names = FALSE, row.names = FALSE, append = TRUE)
-cat("\n", file = "online_exp/stimuli_xml.txt", append = TRUE)
+cat("\n", file = "online_exp/stimuli_xml.xml", append = TRUE)
 
 
 ## negation task
@@ -42,11 +42,11 @@ negation_xml <- paste(
 negation_xml
 
 # Write to disk
-cat("<!-- stimuli for NEGATION task -->", file = "online_exp/stimuli_xml.txt",
+cat("<!-- stimuli for NEGATION task -->", file = "online_exp/stimuli_xml.xml",
     sep = "\n", append = TRUE)
-write.table(negation_xml, file = "online_exp/stimuli_xml.txt", quote = FALSE,
+write.table(negation_xml, file = "online_exp/stimuli_xml.xml", quote = FALSE,
             col.names = FALSE, row.names = FALSE, append = TRUE)
-cat("\n", file = "online_exp/stimuli_xml.txt", append = TRUE)
+cat("\n", file = "online_exp/stimuli_xml.xml", append = TRUE)
 
 
 ## via task
@@ -60,8 +60,8 @@ via_xml <- paste(
 via_xml
 
 # Write to disk
-cat("<!-- stimuli for VIA task -->", file = "online_exp/stimuli_xml.txt",
+cat("<!-- stimuli for VIA task -->", file = "online_exp/stimuli_xml.xml",
     sep = "\n", append = TRUE)
-write.table(via_xml, file = "online_exp/stimuli_xml.txt", quote = FALSE,
+write.table(via_xml, file = "online_exp/stimuli_xml.xml", quote = FALSE,
             col.names = FALSE, row.names = FALSE, append = TRUE)
-cat("\n", file = "online_exp/stimuli_xml.txt", append = TRUE)
+cat("\n", file = "online_exp/stimuli_xml.xml", append = TRUE)
