@@ -2,7 +2,7 @@
 
 library("dplyr")
 
-d_all <- read.csv("online_exp/pilot_data/tagpairdata_190516.csv",
+d_all <- read.csv("online_exp/pilot_data/tagpairdata.csv",
               stringsAsFactors = FALSE)
 str(d_all)
 
@@ -14,6 +14,9 @@ head(d_all)
 valid_ids <- c("16a9d19b2cc-4a25-64fd-bc62-3d3e",
                "16ab0db1df1-b8e3-4bb3-67a-df5f")
 
-d <- d_all %>% filter(UserId %in% valid_ids)
+# d <- d_all %>% filter(UserId %in% valid_ids)
+d <- d_all %>%
+  filter(EventTag == "freeText")
 
-head(d, 20)
+head(d, 400)
+d[150:290,]
