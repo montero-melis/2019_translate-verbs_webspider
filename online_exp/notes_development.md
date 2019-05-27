@@ -39,3 +39,4 @@ To add later on (after pilot)
 -----------------------------
 
 - Catch trials?
+- Perhaps we should add to the instructions for the feature generation task (or perhaps on the screen after the consent form) that participants should not look up the definitions of the verbs in the dictionary. It seems self-evident, but it may be wise to say anyway. And if you want to be able to filter out participants who did check the dictionary, you could add a question at the end to ask if they used a dictionary or not. (But in that case, make sure to add that they will be paid regardless of their answer, or they’ll be more likely to lie. This is something my PhD supervisor does in her online experiments.)
