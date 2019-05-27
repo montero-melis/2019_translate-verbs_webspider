@@ -1,5 +1,6 @@
 ## Process data as output by the online experiment in Frinex
 
+library(dplyr)
 
 # Load data files ---------------------------------------------------------
 
@@ -25,6 +26,11 @@ ppt_info <- read.csv("online_exp/pilot_data/participants.csv")
 head(ppt_info)
 
 
+# List of verbs used as stimuli (need only verb name in 1st column)
+verbs <- read.csv("online_exp/verbs_pilot.csv", fileEncoding = "UTF-8") %>%
+  select(verb = feature)
+verbs$verb_id <- 1 : nrow(verbs)
+verbs
 
 # Select valid participants only ------------------------------------------
 
@@ -37,10 +43,9 @@ valid_ids <- user_ids[user_ids$TagValue2 %in% valid_codes$code, "UserId"]
 d <- d_all[d_all$UserId %in% valid_ids, ]
 
 
-
 # Select relevant rows only -----------------------------------------------
 
-d$TagDate <- NULL  # character duplicate of TimeDate
+d$TagDate <- NULL  # remove character duplicate of TimeDate
 
 # EvenTag column specifies the nature of the logged data
 unique(d$EventTag)
@@ -48,3 +53,24 @@ unique(d$EventTag)
 # Keep only relevant data: text input or presentation time
 d <- d[d$EventTag %in% c("StimulusPresentationTime", "freeText"), ]
 
+
+# Add verb ----------------------------------------------------------------
+
+# The number at the end of TagValue tells us which verb was the stimulus
+# So put that into a new column
+d$verb_id <- as.numeric(gsub("\\D", "", d$TagValue1))
+
+# Join it with the actual verb
+d <- left_join(d, verbs)
+
+
+
+# Feature task ------------------------------------------------------------
+
+# Select feature trials and filter out all empty cells
+feat <- d[grepl("^feat", d$TagValue1), ] %>%
+  filter(EventTag == "freeText" & TagValue2 != "") %>%
+  select(UserId, verb_id, verb, feature_raw = TagValue2)
+
+# Save to disk
+write.csv()
