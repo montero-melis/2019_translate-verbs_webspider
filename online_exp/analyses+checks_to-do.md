@@ -12,6 +12,8 @@ Checks
 
 - Differences depending on TaskOrder
 
+- Effects of TrialNb, e.g. getting faster or listing more/less features?
+
 
 Analyses
 ========
