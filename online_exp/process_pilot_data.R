@@ -1,22 +1,50 @@
 ## Process data as output by the online experiment in Frinex
 
-library("dplyr")
 
+# Load data files ---------------------------------------------------------
+
+# Load main data file
 d_all <- read.csv("online_exp/pilot_data/tagpairdata.csv",
               stringsAsFactors = FALSE)
-str(d_all)
 
-# deal with time data, see https://www.cyclismo.org/tutorial/R/time.html
+# Create column so I can later reorder rows if necessary
+d_all$row_nb <- seq_len(nrow(d_all))
+# Deal with time data, see https://www.cyclismo.org/tutorial/R/time.html
 d_all$DateTime <- as.POSIXct(strptime(d_all$TagDate, format = "%Y-%m-%d %H:%M:%S"))
+
+str(d_all)
 head(d_all)
 
-# Use the data from two pilot participants (2 colleagues at MPI, RS and EP)
-valid_ids <- c("16a9d19b2cc-4a25-64fd-bc62-3d3e",
-               "16ab0db1df1-b8e3-4bb3-67a-df5f")
+# List of valid completion codes (from actual participants only)
+valid_codes <- read.table("online_exp/pilot_data/valid_completion_codes.txt",
+                          col.names = "code")
+head(valid_codes)
 
-# d <- d_all %>% filter(UserId %in% valid_ids)
-d <- d_all %>%
-  filter(EventTag == "freeText")
+# List of participant information
+ppt_info <- read.csv("online_exp/pilot_data/participants.csv")
+head(ppt_info)
 
-head(d, 400)
-d[150:290,]
+
+
+# Select valid participants only ------------------------------------------
+
+# Select unique pairs of <UserId, CompletionCode> (note some of them are
+# duplicated, perhaps because the information was resent several times?)
+user_ids <- unique(d_all[d_all$TagValue1 == "CompletionCode", c("UserId", "TagValue2")])
+valid_ids <- user_ids[user_ids$TagValue2 %in% valid_codes$code, "UserId"]
+
+# Use the data from valid pilot participants only
+d <- d_all[d_all$UserId %in% valid_ids, ]
+
+
+
+# Select relevant rows only -----------------------------------------------
+
+d$TagDate <- NULL  # character duplicate of TimeDate
+
+# EvenTag column specifies the nature of the logged data
+unique(d$EventTag)
+
+# Keep only relevant data: text input or presentation time
+d <- d[d$EventTag %in% c("StimulusPresentationTime", "freeText"), ]
+
