@@ -2,6 +2,7 @@
 *test.py
 *.pdf
 *xlsx
+online_exp/info_frinex_exp.md
 
 # Exceptions
 !paridon_retrieve_manner_verbs_190415.pdf
@@ -10,6 +11,7 @@
 *.Rhistory
 *test.R
 
+*.docx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -23,12 +23,12 @@ Uiteindelijk hopen wij te achterhalen hoe de betekenis van een werkwoord verwerk
 
 Dit online experiment bestaat uit drie simpele taken. Deze taken gaan over jouw begrip en gebruik van bepaalde woorden en zinnen. Voor elke taak zul je uitgebreide instructies krijgen.
 
-In totaal zal dit experiment X minuten duren.
+Het experiment duurt ongeveer 30 minuten.
  
 
 *Krijg ik betaald voor mijn deelname?*
 
-Je zal €X,- betaald krijgen voor deelname aan dit onderzoek. Het bedrag zal na voltooiing van het experiment worden overgemaakt op de rekening die je bij het instituut hebt opgegeven.
+Je zal €6,- betaald krijgen voor deelname aan dit onderzoek. Het bedrag zal na voltooiing van het experiment worden overgemaakt op de rekening die je bij het instituut hebt opgegeven.
  
 
 *Wat zijn de risico’s?*
@@ -207,5 +207,5 @@ Einde van het experiment
 
 Dit is het einde van het experiment. Hartelijk dank voor je deelname! 
 
-Het bovenstaande nummer is het bewijs dat je het experiment hebt voltooid. **Stuur dit nummer in een e-mail naar de experimentleider Eva Poort: Eva.Poort@mpi.nl).** Zonder dit nummer kunnen we niet controleren of je het experiment gedaan hebt en kunnen we je dus niet betalen!
+Het bovenstaande nummer is het bewijs dat je het experiment hebt voltooid. **Stuur dit nummer in een e-mail naar de experimentleider Guillermo Montero-Melis: Guillermo.MonteroMelis@mpi.nl).** Zonder dit nummer kunnen we niet controleren of je het experiment gedaan hebt en kunnen we je dus niet betalen!
 
