@@ -1,12 +1,13 @@
 ## Process data as output by the online experiment in Frinex
 
 library(dplyr)
+library(readr)
 
 # Load data files ---------------------------------------------------------
 
 # Load main data file
 d_all <- read.csv("online_exp/pilot_data/tagpairdata.csv",
-              stringsAsFactors = FALSE)
+              stringsAsFactors = FALSE, fileEncoding = "UTF-8")
 
 # Create column so I can later reorder rows if necessary
 d_all$row_nb <- seq_len(nrow(d_all))
@@ -82,8 +83,7 @@ feat <- d[grepl("^feat", d$TagValue1), ] %>%
 length(unique(feat$feature_raw))  # 823
 
 # Save to disk feature data set
-write.csv(feat, file = "online_exp/pilot_data/feature_trial-data.csv",
-          row.names = FALSE)
+write_csv(feat, path = "online_exp/pilot_data/feature_trial-data.csv")
 
 # Data file for coding, which contains only unique features per verb:
 feat_coding <- unique(feat[, c("verb", "feature_raw")])
@@ -95,8 +95,7 @@ feat_coding$feature_english <- ""
 feat_coding$comment <- ""
 
 # Save to disk
-write.csv(feat_coding, file = "online_exp/pilot_data/feature_for-coding.csv",
-          row.names = FALSE)
+write_csv(feat_coding, path = "online_exp/pilot_data/feature_for-coding.csv")
 
 
 # Negation task -----------------------------------------------------------
@@ -110,8 +109,7 @@ neg <- d[grepl("^neg", d$TagValue1), ] %>%
 length(unique(neg$response_raw))
 
 # Save to disk negation data set
-write.csv(neg, file = "online_exp/pilot_data/negation_trial-data.csv",
-          row.names = FALSE)
+write_csv(neg, path = "online_exp/pilot_data/negation_trial-data.csv")
 
 # Data file for coding, which contains only unique responses:
 neg_coding <- data.frame(
@@ -122,7 +120,28 @@ neg_coding <- data.frame(
 )
 
 # Save to disk
-write.csv(neg_coding, file = "online_exp/pilot_data/negation_for-coding.csv",
-          row.names = FALSE)
+write_csv(neg_coding, path = "online_exp/pilot_data/negation_for-coding.csv")
 
 
+
+# Via task ----------------------------------------------------------------
+
+# Select via trials
+via <- d[grepl("^via", d$TagValue1), ] %>%
+  filter(EventTag == "freeText" & TagValue2 != "") %>%
+  select(UserId, verb_id, verb, response_raw = TagValue2)
+
+# How many unique verb-response pairs?
+nrow(unique(via[, c("verb", "response_raw")]))
+
+# Save to disk via data set
+write_csv(via, path = "online_exp/pilot_data/via_trial-data.csv")
+
+# Data file for coding, which contains only unique responses per verb:
+via_coding <- via[, c("verb", "response_raw")] %>%
+  mutate(response_clean   = response_raw,
+         valid_response   = "",
+         comment          = "")
+
+# Save to disk
+write_csv(via_coding, path = "online_exp/pilot_data/via_for-coding.csv")
