@@ -103,13 +103,17 @@ write_csv(feat_coding, path = "online_exp/pilot_data/feature_for-coding.csv")
 # Select negation trials and filter out all empty cells
 neg <- d[grepl("^neg", d$TagValue1), ] %>%
   filter(EventTag == "freeText" & TagValue2 != "") %>%
-  select(UserId, verb_id, verb, response_raw = TagValue2)
+  mutate(response_clean = TagValue2, synonym_group = "", comment = "") %>%
+  group_by(UserId) %>% mutate(trial = row_number()) %>% ungroup() %>%
+  select(UserId, trial, verb_id, verb, response_raw = TagValue2,
+         response_clean, synonym_group, comment)
 
 # How many unique responses?
 length(unique(neg$response_raw))
 
-# Save to disk negation data set
-write_csv(neg, path = "online_exp/pilot_data/negation_trial-data.csv")
+# Save to disk negation data set arranged in a more useful format
+write_csv(neg %>% arrange(verb, response_raw),
+          path = "online_exp/pilot_data/negation_trial-data.csv")
 
 # Data file for coding, which contains only unique responses:
 neg_coding <- data.frame(
