@@ -1,0 +1,824 @@
+feature_raw,feature_clean,feature_revised,revision,feature_domain,extra_domain/component,feature_component,feature_english,comments
+-,-,geen,N/A,N/A,,N/A,N/A,
+--,--,geen,N/A,N/A,,N/A,N/A,
+?,?,geen,N/A,N/A,,N/A,N/A,
+5 km per uur,5 km per uur,langzaam,SYN,Temporal,Speed (c),Slow,,
+6 kilometer per uur,6 kilometer per uur,langzaam,SYN,Temporal,Speed (c),Slow,,
+aan de kant,aan de kant,opzij,SYN,Spatial,,,,
+aan de kant gaan,aan de kant gaan,opzij + gaan,SYN; MULT,Spatial,,,,
+aan de kant voor iemand,aan de kant voor iemand,opzij + voor iemand,SYN; MULT,Spatial + Other,+ Person-Profession,,,
+aan iets,aan iets,,,,,,,"inferred meaning: to swing ""on something"""
+aankomst,aankomst,aanwezigheid,SYN,Other,,,,
+aankondigen,aankondigen,,,Other,,,,verb response
+aankondiging van aankomst,aankondiging van aankomst,aankondingen + aanwezigheid,SYN; MULT,+ Other,,,,verb response
+aanwezigheid,aanwezigheid,,,Other,,,,
+aanwezigheid tonen,aanwezigheid tonen,aanwezigheid + tonen,SYN; MULT,Other + ,,,,verb response
+aap,aap,,,Other,Animal,,,
+achter een rollator,achter een rollator,,,Other,Object,,,
+actie,actie,,,Motor,+ Motion (c),,,
+actief,actief,,,Motor,+ Motion (c),,,
+activiteit,activiteit,actie,SYN,Motor,+ Motion (c),,,
+afleiding,afleiding,,,Attention,,,,
+afspraak,afspraak,,,Other,,,,
+afstand,afstand,,,Spatial,,,,
+afwijken,afwijken,,,,,,,verb response
+alle kanten op,alle kanten op,,,Spatial,,,,
+alle tijd,alle tijd,,,Drive/Temporal,Lacking (c)/,,,
+alleen zijn,alleen zijn,,,Social,,,,
+alles bij elkaar rapen,alles bij elkaar rapen,,,,,,,verb response
+als een leeuw,als een leeuw,,,Other,Animal,,,
+alternatief kiezen,alternatief kiezen,alternatief + kiezen,MULT,,,,,verb response
+ambulance,ambulance,,,Other,Object,,,
+anti,anti,=opzij?,SYN,Spatial,,,,
+apen,apen,aap,SYN,Other,Animal,,,
+arm,arm,armen,SYN,Motor,,,,
+armbeweging,armbeweging,armen + actie,SYN; MULT,Motor + Motor,,,,
+armen,armen,,,Motor,,,,
+armen en benen,armen en benen,armen + benen,SYN: MULT,Motor + Motor,,,,
+asfalt,asfalt,,,Other,Object,,,
+auto,auto,,,Other,Object,,,
+auto's,auto's,auto,SYN,Other,Object,,,
+bakken,bakken,,,,,,,verb response
+bakker,bakker,,,Other,Person-Profession,,,
+bal,bal,,,Other,Object,,,
+basisschool,basisschool,,,Other,,,,
+bedachtzaam bewegen,bedachtzaam bewegen,bedachtzaam + bewegen,MULT,Cognition + Motor,+ Motion (c),,,verb response
+beenbeweging,beenbeweging,benen + beweging,MULT,Motor + Motor,+ Motion (c),,,
+begroeting,begroeting,,,Other,,,,
+beheersd,beheerst,,,Motor/Cognition,,,,
+behulpzaam,behulpzaam,,,,,,,
+bel,bel,,,Other,Object,,,
+beneden,beneden,naar beneden,SYN,Spatial,,,,
+benen,benen,,,Motor,,,,
+bereiden,bereiden,,,,,,,verb response
+berg,berg,,,Spatial,Location (c),,,
+berg of heuvel op,berg of heuvel op,berg + heuvel + naar boven,SYN; MULT,Spatial + Spatial + Spatial,Location (c) + Location (c) + Spatial,,,
+bergen,bergen,berg,SYN,Spatial,Location (c),,,
+berghelling,berghelling,berg,SYN,Spatial,Location (c),,,
+bergschoenen,bergschoenen,,,Other,Object,,,association?
+bespieden,bespieden,,,,,,,verb response
+bestemming,bestemming,,,Spatial,Destination (c),,,
+bevrijding,bevrijding,,,,,,,
+bewegen,bewegen,,,,,,,verb response
+bewegen op de maat,bewegen op de maat,bewegen + op de maat,MULT,+ Temporal,Tempo (c),,,
+beweging,beweging,actie,,Motor,,,,
+bewust omlaag gaan,bewust omlaag gaan,bewust + naar beneden,MULT,Cognition + Spatial,,,,
+bezoek,bezoek,,,,,,,
+bijl,bijl,,,Other,Object,,,
+binnen,binnen,,,Spatial,,,,
+binnen gaan,binnen gaan,binnen + gaan,MULT,Spatial + ,,,,verb response
+binnengelaten willen worden,binnengelaten willen worden,binnen + vragen,SYN; MULT,Spatial + ,,,,verb response
+binnenkomen,binnenkomen,binnen + gaan,SYN; MULT,Spatial + ,,,,verb response
+blessure,blessure,,,Somatic,,,,
+blijdschap,blijdschap,,,Emotion,,,,
+bloed,bloed,,,Somatic,,,,
+blokje om,blokje om,,,Spatial,,,,association?
+bocht,bocht,,,Spatial,,,,
+boef,boef,dief,SYN,Other,Person-Profession,,,
+bonk geluid,bonk geluid,,,Audition,,,,
+boog,boog,,,Spatial,,Path,,
+boom,boom,,,Other,Object,,,
+boomstammen,boomstammen,boom,,Other,Object,,,
+boomtak,boomtak,boom,,Other,Object,,,
+bos,bos,,,Spatial,,,,
+boter,boter,,,Other,Object,,,
+bouwen,bouwen,,,,,,,verb response
+brandweer,brandweer,,,Other,Person-Profession,,,
+breken,breken,,,,,,,verb response
+brutaal,brutaal,,,Cognition/Social,,,,
+buiten,buiten,,,Spatial,,,,
+bus halen,bus halen,bus + halen,MULT,,,,,association?; verb response
+cardio,cardio,,,Temporal/Somatic,,,,
+chaotisch,chaotisch,,,Other,State,,,
+checken,checken,,,,,,,verb response
+chirurg,chirurg,,,Other,Person-Profession,,,
+cilinder,cilinder,,,Other,Object,,,
+conditie,conditie,,,Somatic,State (c),,,
+constante snelheid,constante snelheid,,,Temporal,Tempo (c),,,
+correct,correct,,,Other,State,,,
+correct zijn,correct zijn,correct,SYN,Other,State,,,
+dagelijks,dagelijks,,,Temporal,,,,
+dans,dans,,,Motor,Motion (c),,,
+dansen,dansen,,,,,,,verb response
+dansvloer,dansvloer,,,Other/Spatial,Object/Location (c),,,
+de hoogte in,de hoogte in,naar boven,SYN,Spatial,,,,
+de weg kwijt,de weg kwijt,verdwaald,SYN,Drive,Lacking (c),,,
+de weg zoeken,de weg zoeken,verdwaald,SYN,Drive,Lacking (c),,,
+delen,delen,,,,,,,verb response?
+deur,deur,,,Other,Object,,,
+deur huis,deur huis,deur + huis,MULT,Other + Spatial,Object + Location (c),,,
+dichtbij,dichtbij,,,Spatial,,,,
+dief,dief,,,Other,Person-Profession,,,
+digitaal met word,digitaal met word,,,Other,,,,
+dingen vergeten,dingen vergeten,,,,,,,verb response
+direct en indirect,direct en indirect,direct + indirect,MULT,Other,,,,
+dit,dit,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+dit woord ken ik niet,dit woord ken ik niet,geen,N/A,N/A,,N/A,N/A,
+doel,doel,doelbewust,SYN,Drive,,,,
+doelbewust,doelbewust,,,Drive,,,,
+doelloos,doelloos,,,Drive,Lacking (c),,,
+doelloos rondlopen,doelloos rondlopen,doelloos + rondlopen,MULT,Drive + ,Lacking (c) + ,,,verb response
+doolhof,doolhof,,,Spatial,Location (c),,,
+door de mens,door de mens,door mens,SYN,Other,Person-Profession,,,
+door de natuur,door de natuur,,,Spatial,,,,
+door een klok,door een klok,,,Other,Object,,,
+door etenswaren,door etenswaren,voedsel,SYN,Other,Object,,,
+door mens,door mens,,,Other,Person-Profession,,,
+door mens/dier,door mens/dier,door mens + door dier,MULT,Other,Person-Profession,,,
+door mensen,door mensen,door mens,SYN,Other,Person-Profession,,,
+door mensen/apen,door mensen/apen,door mens + door aap,MULT,Other + Other,Person-Profession + Animal,,,
+door waterplassen,door waterplassen,,,Spatial/Other,Location (c)/Object (c),,,
+doorgaan,doorgaan,,,,,,,verb response
+doormidden,doormidden,,,Other,State,,,
+dragen,dragen,,,,,,,verb response
+dringend,dringend,,SYN,Drive,,,,
+dronken,dronken,,,Other/Somatic,State/State (c),,,
+druk,druk,,SYN,,,,,semantically ambiguous!
+drukte maken,drukte maken,,,Social/Motor,,,,verb response
+duo,duo,,,Other,Person-Profession,,,
+duwen,duwen,,,,,,,verb response
+dwalen,dwalen,,,,,,,verb response
+echt,echt,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+een belemmering,een belemmering,,,Spatial/Drive,Obstacle (c),,,
+een berg,een berg,berg,SYN,Spatial,Location (c),,,
+een doel hebben,een doel hebben,doelbewust,SYN,Drive,,,,
+een koude windvlaag,een koude windvlaag,koude + windvlaag,MULT,Somatic + Other,+ Object,,,association?
+een stel,een stel,duo,SYN,Other,Person-Profession,,,
+een trap,een trap,trap,SYN,Other/Spatial,Object/Location (c),,,
+eerste hulp,eerste hulp,,,Other,,,,association?
+eieren,eieren,,,Other,Object,,,
+er tussenuit sneaken,er tussenuit sneaken,tussendoor + geheim,SYN; MULT,Spatial + Cognition,,,,
+ergens aan hangen,ergens aan hangen,ergens + hangen,SYN; MULT,Spatial +,,,,verb response
+ergens iets uithalen,ergens iets uithalen,ergens + iets uithalen,MULT,Spatial +,,,,verb response
+ergens naartoe,ergens naartoe,,,Spatial,Destination (c),,,
+ergens tegen aan,ergens tegen aan,,,Spatial,Location (c),,,
+ergens tussendoor,ergens tussendoor,tussendoor,SYN,Spatial,,,,
+ergens tussendoor glippen,ergens tussendoor glippen,tussendoor + glippen,MULT,Spatial +,,,,verb response
+ertussenuit knijpen,ertussenuit knijpen,tussendoor + knijpen,SYN; MULT,Spatial + ,,,,verb response
+eten,eten,,,,,,,grammatically/semantically ambiguous!
+even snel ergens naar binnen gaan,even snel ergens naar binnen gaan,even snel + ergens naar binnen + gaan,SYN; MULT,Temporal + Spatial +,+ Destination (c) + ,,,verb response
+feest,feest,,,Social,,,,
+feestgelegenheid,feestgelegenheid,feest,SYN,Social,,,,
+fiets,fiets,,,Other,Vehicle,,,
+fietsen,fietsen,,,,,,,verb response
+figuren,figuren,,,Other,Object,,,
+fijne motoriek,fijne motoriek,,,Motor,Manner (c),,,
+files ontwijken,files ontwijken,files + ontwijken, MULT,,,,,association?; verb response
+flexibel,flexibel,,,Other,,,,
+formatie,formatie,,,Other,State,,,
+gaan,gaan,,,,,,,verb response
+garde,garde,,,Other,Object,,,
+gebruik van je handen,gebruik van je handen,met handen,SYN,Motor,,,,
+gebukt en zachtjes lopen,gebukt en zachtjes lopen,gebukt + zachtjes + lopen,SYN; MULT,Motor/Somatic + Audition + ,Manner (c)/  + Lacking sound (c)  +,,,verb response
+geconcentreerd,geconcentreerd,,,Cognition,,,,
+geen,geen,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+geen aanvaring,geen aanvaring,,,Spatial/Drive,Lacking obstacle (c),,,
+geen bel,geen bel,,,Other,Object > Lacking (c),,,
+geen bestemming,geen bestemming,,,Spatial,Lacking destination (c),,,
+geen definitie,geen definitie,geen,N/A,N/A,,N/A,N/A,
+geen doel,geen doel,doelloos,SYN,Drive,Lacking (c),,,
+geen eindbestemming,geen eindbestemming,geen bestemming,SYN,Spatial,Lacking destination (c),,,
+geen geheel,geen geheel,,,Other,State > Broken (c),,,
+geen geheel meer,geen geheel meer,geen geheel,SYN,Other,State > Broken (c),,,
+geen geluid,geen geluid,stil,SYN,Audition,Lacking sound (c),,,
+geen grip,geen grip,,,,,,,
+geen haast,geen haast,,,Drive,Lacking (c),,,
+geen houvast,geen houvast,,,,,,,
+geen idee,geen idee,geen,N/A,N/A,,N/A,N/A,
+geen kennis,geen kennis,,,Cognition,Lacking (c),,,
+geen lawaai,geen lawaai,stil,SYN,Audition,Lacking sound (c),,,
+geen orientatie,geen orientatie,,,Cognition,Lacking (c),,,
+geen rechte lijn,geen rechte lijn,kronkelend,SYN,Spatial,,,,
+geen stress,geen stress,,,Cognition/Drive,Lacking (c)/Lacking (c),,,
+geen tijd,geen tijd,,,,,,,semantically ambiguous!
+geen uitstel,geen uitstel,,,Drive,,,,
+geen zin in hebben,geen zin in hebben,,,Drive,Lacking (c),,,
+geheel vormen,geheel vormen,,,Other,State,,,
+geheim,geheim,,,Cognition,,,,
+gelederen,gelederen,leger,SYN,Other,Person-Profession,,,"Van Dale: ""leger"""
+gelijkmatig tempo,gelijkmatig tempo,op de maat,SYN,Temporal,Tempo (c),,,
+geluid,geluid,,,Audition,,,,
+geluidmaken,geluid maken,geluid,SYN,Audition,,,,verb response
+gemoedelijk,gemoedelijk,,,Drive,Lacking (c),,,
+genieten,genieten,,,Emotion,,,,
+gereedschap,gereedschap,,,Other,Object,,,
+geruisloos,geruisloos,stil,SYN,Audition,Lacking sound (c),,,
+geslacht,geslacht,,,,,,,?
+gespannen,gespannen,,,Cognition,,,,semantically ambiguous!
+gevaar,gevaar,,,Drive,,,,semantically ambiguous!
+gevaarlijk,gevaarlijk,gevaar,SYN,Drive,,,,
+gevolg kan pijn doen,gevolg kan pijn doen,gevolg + pijn,SYN; MULT,Causal + Somatic,,,,
+geweer,geweer,,,Other,Object,,,
+gezellig,gezellig,,,Emotion,,,,
+gilletje,gilletje,,,Audition,,,,
+glad,glad,,,Somatic,,,,
+glas,glas,,,Other,Object,,,
+glijden,glijden,,,,,,,verb response
+glippen,glippen,,,,,,,verb response
+golflijn,golflijn,kronkelend,SYN,Spatial,,,,
+gooien,gooien,,,,,,,verb response
+groente,groente,,,Other,Object,,,
+groente snijden,groente snijden,groente + snijden,MULT,Other +,Object +,,,verb response
+groep,groep,,,Other,Person-Profession,,,semantically ambiguous!
+grond,grond,,,,,,,semantically ambiguous!
+grote beweging,grote beweging,grote + beweging,MULT,Other + Motor,Adjective + Motion (c),,,
+grote mond,grote mond,,,,,,,association?
+grote stappen,grote stappen,grote + stappen,MULT,Other + Motor,Adjective + Manner (c),,,
+haar,haar,,,Other,Object,,,
+haast,haast,,,Drive,,,,
+haasten,haasten,haast,SYN,,,,,verb response
+haastig,haastig,haast,SYN,Cognition/Drive,,,,
+hakbeweging,hakbeweging,,,Spatial/Motor,,,,
+hakken,hakken,,,Motor,,,,verb response
+hand,hand,met handen,SYN,Motor,,,,
+handbeweging,handbeweging,met handen,,Motor,,,,
+handeling,handeling,actie,SYN,Motor,Motion (c),,,
+handen,handen,met handen,SYN,Motor,,,,
+handmatig,handmatig,,,Motor,,,,
+hangen,hangen,,,,,,,verb response
+hangerig,hangerig,,,Other/Motor,State/Manner (c),,,
+hardcore,hardcore,,,,,,,association?
+harde muziek,harde muziek,hard + muziek,SYN; MULT,Audition + Audition,,,,
+harde stappen,harde stappen,hard + stappen,SYN; MULT,Audition + Motor,+ Manner (c),,,
+hardloopschoen,hardloopschoen,hardloopschoenen,SYN,Other,Object,,,association?
+hardloopschoenen,hardloopschoenen,,,Other,Object,,,association?
+hardop,hardop,,,Audition,,,,
+harmonie,harmonie,,,Temporal,Tempo (c),,,potentially semantically ambiguous!
+hartkloppingen,hartkloppingen,hartslag,SYN,Somatic,,,,association?
+hartslag,hartslag,,,Somatic,,,,association?
+heeft aanzet nodig,heeft aanzet nodig,,,,,,,
+heen en weer,heen en weer,,,Spatial,,,,
+heen en weer lopen,heen en weer lopen,heen en weer + lopen,MULT,Spatial +,,,,verb response
+heet,heet,,,Somatic,,,,
+heffen,heffen,,,,,,,verb response
+helling,helling,,,Spatial,Location (c),,,
+heuvel,heuvel,,,Spatial,Location (c),,,
+hierarchie,hierarchie,,,Other,Person-Profession,,,
+hoger geraken,hoger geraken,naar boven,SYN,Spatial,,,,
+hoog,hoog,hoogte,SYN,Spatial,Location (c),,,
+hoog tempo,hoog tempo,snel,SYN,Temporal,Tempo (c),,,
+hoogste woord voeren,hoogste woord voeren,,,,,,,association?; verb response
+hoogte,hoogte,,,Spatial,Location (c),,,
+hoogtes,hoogtes,hoogte,SYN,Spatial,Location (c),,,
+hoogteverschil,hoogteverschil,,,Spatial,,,,
+horizontaal,horizontaal,,,Spatial,,,,
+hout,hout,,,Other,Object,,,
+houten deur,houten deur,hout + deur,SYN; MULT,Other + Other,Adjective + Object,,,
+houthakker,houthakker,,,Other,Person-Profession,,,
+huizen,huizen,huis,SYN,Other,Object,,,
+hulp,hulp,,,Other,,,,association?
+hulp bieden,hulp bieden,hulp + bieden,MULT,,,,,association?; verb response
+hulpdiensten,hulpdiensten,,,,,,,
+idee,idee,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+iets delen,iets delen,iets + delen,MULT,Other +,Object +,,,verb response
+iets halen,iets halen,iets + halen,MULT,Other +,Object +,,,verb response
+iets open maken,iets open maken,iets + open maken,MULT,Other +,Object +,,,verb response
+iets platter maken,iets platter maken,iets + plat + maken,MULT,Other + Other +,Object + Adjective + ,,,verb response
+ijs,ijs,,,Other,Object,,,
+ijsberen,ijsberen,,,,,,,verb response
+ik,ik,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+ik moet 5 vakjes vullen,ik moet 5 vakjes vullen,geen,N/A,N/A,,N/A,N/A,
+ik weet niet of ik dit mag opzoeken?,ik weet niet of ik dit mag opzoeken?,geen,N/A,N/A,,N/A,N/A,
+ik weet niet wat dit betekend,ik weet niet wat dit betekend,geen,N/A,N/A,,N/A,N/A,
+ik weet niet wat dit betekent.,ik weet niet wat dit betekent.,geen,N/A,N/A,,N/A,N/A,
+in de buitenlucht,in de buitenlucht,buiten,SYN,Spatial,,,,
+in de maat,in de maat,op de maat,SYN,Temporal,Tempo (c),,,
+in de weg,in de weg,,,Spatial,,,,
+in duo,in duo,duo,SYN,Other,Person-Profession,,,
+in een boom,in een boom,boom,SYN,Spatial/Other,Location (c)/Object,,,
+in een doolhof,in een doolhof,doolhof,SYN,Spatial,Location (c),,,
+in een groep,in een groep,,,Other,Person-Profession,,,
+in gelijk tempo,in gelijk tempo,op de maat,SYN,Temporal,Tempo (c),,,
+in het bos,in het bos,,,Spatial,Location (c),,,
+in het donker,in het donker,,,Vision,,,,
+in papier,in papier,papier,SYN,Other,Object,,,
+in papier/ haar,in papier/ haar,papier + haar,SYN; MULT,Other + Other,Object + Object,,,
+in plaats van bellen,in plaats van bellen,,,,,,,verb response
+in stilte,in stilte,stil,SYN,Audition,Lacking sound (c),,,
+in stof,in stof,,,Other,Object,,,
+in stukjes,in stukjes,stukken,SYN,Causal/Other, /Object,,,
+in stukken,in stukken,stukken,SYN,Causal/Other, /Object,,,
+inbreker,inbreker,dief,SYN,Other,Person-Profession,,,
+ingredienten mixen,ingredienten mixen,ingrediënten + mixen,MULT,Other +,Object +,,,verb response
+innig dansen,innig dansen,intiem + dansen,SYN; MULT,Other +,Adjective + ,,,verb response
+inspannend,inspannend,inspanning,SYN,Motor/Somatic,Manner (c)/,,,
+inspanning,inspanning,,,Motor/Somatic,Manner (c)/,,,
+intensief,intensief,inspanning,SYN,Motor/Somatic,Manner (c)/,,,
+intiem,intiem,,,Social,,,,
+is,is,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+is?,is?,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+jarig,jarig,,,,,,,association?
+joggen,joggen,,,,,,,verb response
+kan in boom,kan in boom,boom,SYN,Spatial/Other,Location (c)/Object,,,
+kans,kans,,,,,,,?
+kapot,kapot,,,Other,State > Broken (c),,,
+kapot maken,kapot maken,kapot + maken,MULT,Other +,State > Broken (c) +,,,verb response
+kapotmaken,kapot maken,kapot + maken,SYN; MULT,Other +,State > Broken (c) +,,,verb response
+kapper,kapper,,,Other,Person-Profession,,,
+kartels,kartels,,,Other,,,,
+kelder,kelder,,,Spatial,Location (c),,,
+ken,ken,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+ken ik niet,ken ik niet,geen,N/A,N/A,,N/A,N/A,
+keuken,keuken,,,Spatial,Location (c),,,
+keuvelen,keuvelen,,,,,,,verb response
+kilometers,kilometers,,,Spatial,,,,
+kisten,kisten,,,,,,,verb response?; grammatically/semantically ambiguous!
+klassieke dansstijl,klassieke dansstijl,klassieke + dansstijl,MULT,Other + Other,Adjective + Object,,,
+klauteren,klauteren,,,,,,,verb response
+kleine stapjes,kleine stapjes,klein + stappen,SYN; MULT,Other + Motor,Adjective + Manner (c),,,
+kleine stappen,kleine stappen,klein + stappen,SYN; MULT,Other + Motor,Adjective + Manner (c),,,
+kleinere stukjes,kleinere stukjes,klein + stukken,SYN; MULT,Other + Causal/Other,Adjective + /Object,,,
+kleinere stukken,kleinere stukken,klein + stukken,SYN; MULT,Other + Causal/Other,Adjective + /Object,,,
+kletsen,kletsen,,,,,,,verb response
+kleuters,kleuters,,,Other,Person-Profession,,,
+klimwand,klimwand,,,Spatial/Other,/Object,,,
+klok,klok,,,Other,Object,,,
+knie,knie,,,Motor/Somatic,,,,
+knokkels,knokkels,,,Motor/Somatic,,,,
+knuffelen,knuffelen,,,,,,,verb response
+knutselen,knutselen,,,,,,,verb response
+koers,koers,,,Spatial,,,,
+koken,koken,,,,,,,verb response
+koorts,koorts,,,Somatic,,,,
+kortwieken,kortwieken,,,,,,,verb response
+kracht,kracht,,,Somatic/Motor,,,,
+krap,krap,,,Spatial,Space (c),,,
+kronkelende beweging,kronkelende beweging,kronkelend + actie,SYN; MULT,Spatial + Motor,+ Motion (c),,,
+kronkelende lijn,kronkelende lijn,kronkelend,SYN; MULT,Spatial,,,,
+kuiten,kuiten,,,Motor,,,,
+laag,laag,,,Spatial,,,,
+lagere hoogte,lagere hoogte,,,Spatial,,,,
+langzaam,langzaam,,,Temporal,Speed (c),,,
+langzaam lopen,langzaam lopen,langzaam + lopen,SYN; MULT,Temporal + ,Speed (c) +,,,verb response
+langzaam voortbewegen,langzaam voortbewegen,langzaam + lopen,SYN; MULT,Temporal + ,Speed (c) +,,,
+last,last,,,,,,,semantically ambiguous!
+laten gaan,laten gaan,,,,,,,verb response
+leger,leger,,,Other,Person-Profession,,,
+lengte,lengte,,,Spatial,,,,
+leuk,leuk,,,Other/Emotion,Adjective/,,,association?
+liaan,liaan,,,Other,Object,,,
+lichamelijk,lichamelijk,,,Somatic/Motor,,,,
+lift,lift,,,Other,Object/Vehicle,,,
+links,links,,,Spatial,,,,
+lintjes,lintjes,,,Other,Object,,,
+lomp,lomp,,,,,,,semantically ambiguous
+loopband,loopband,,,Other,Object,,,
+lopen,lopen,,,,,,,verb response
+lopen op de maat,lopen op de maat,lopen + op de maat,SYN; MULT,+ Temporal,+ Tempo (c),,,verb response
+lopen zonder richting,lopen zonder richting,lopen + zonder richting,MULT,+ Drive,Lacking (c),,,
+lopend,lopend,lopen,SYN,,,,,verb response
+loshangen,loshangen,,,,,,,verb response
+luchtig maken,luchtig maken,luchtig + maken,MULT,,,,,verb response
+lui,lui,,,Cognition/Drive/Attention,Lacking (c),,,
+luide muziek,luide muziek,luid + muziek,SYN; MULT,Audition + Audition,,,,
+maakt kleiner/korter,maakt kleiner/korter,klein + kort + maken,SYN; MULT,Other + Other + ,Adjective + Adjective +,,,verb response
+maat,maat,op de maat,SYN,Temporal,Tempo (c),,,
+machine,machine,,,Other,Object,,,
+man-vrouw,man-vrouw,duo,,Other,Person-Profession,,,
+manier van dansen,manier van dansen,manier + dansen,MULT,,,,,verb response
+manier van lopen,manier van lopen,manier + lopen,MULT,Motor,Manner (c),,,verb response
+mannenberoep,mannenberoep,,,Other,Person-Profession,,,
+marathon,marathon,,,Spatial,Distance (c),,,
+marechaussee,marechaussee,,,Other,Person-Profession,,,
+mars,mars,,,Motor/Temporal,Manner (c)/Tempo (c),,,
+meenemen,meenemen,,,,,,,verb response
+meer dan gebruikelijk,meer dan gebruikelijk,,,Other,,,,
+meer delen maken,meer delen maken,stukken + maken,SYN; MULT,Causal/Other +, /Object +,,,verb response
+meerdere zijn juist,meerdere zijn juist,,,,,,,?
+mengen,mengen,,,,,,,verb response
+mens,mens,door mens,SYN,Other,Person-Profession,,,
+menselijk,menselijk,door mens,SYN,Other,Person-Profession,,,
+menselijk en dierlijk,menselijk en dierlijk,door mens + door dier,SYN; MULT,Other + Other,Person-Profession + Animal,,,
+menselijk en levenloze objecten,menselijk en levenloze objecten,door mens + door object,SYN; MULT,Other + Other,Person-Profession + Object,,,
+mes,mes,,,Other,Object,,,
+mes of tanden,mes of tanden,mes + tanden,MULT,Other + Other,Object + Object,,,
+met armen,met armen,armen,SYN,Motor/Somatic,,,,
+met beleid,met beleid,,,Cognition,,,,
+met bijl,met bijl,,,Other,Object,,,
+met de hand op iets hards slaan,met de hand op iets hards slaan,met handen + iets hards + slaan,SYN; MULT,Motor/Somatic + Other +,+ Object + ,,,verb response
+met de handen,met de handen,met handen,SYN,Motor/Somatic,,,,
+met een bijl,met een bijl,,,Other,Object,,,
+met een mes,met een mes,mes,SYN,Other,Object,,,
+met een pak,met een pak,,,Other,Object,,,
+met een rugzak,met een rugzak,,,Other,Object,,,
+met een touw,met een touw,touw,SYN,Other,Object,,,
+met een vliegtuig,met een vliegtuig,,,Other,Vehicle,,,
+met een voertuig,met een voertuig,,,Other,Vehicle,,,
+met handen,met handen,,,Motor/Somatic,,,,
+met handen en voeten,met handen en voeten,met handen + met voeten,SYN; MULT,Motor/Somatic + Motor/Somatic,,,,
+met hoge snelheid bewegen,met hoge snelheid bewegen,snel + actie,SYN; MULT,Temporal + ,Speed (c) +,,,verb response
+met je hand,met je hand,met handen,,Motor/Somatic,,,,
+met je vrienden,met je vrienden,,,Other,Person-Profession,,,
+met je vuist,met je vuist,vuist,,Motor/Somatic,,,,
+met knokkels,met knokkels,vuist,,Motor/Somatic,,,,
+met mes,met mes,mes,,Other,Object,,,
+met plezier,met plezier,,,Emotion,,,,
+met schaar,met schaar,,,Other,Object,,,
+met z'n allen tegelijk,met z'n allen tegelijk,,,Other,Person-Profession,,,
+metaal,metaal,,,Other,Adjective,,,
+mij,mij,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+militair,militair,soldaat,SYN,Other,Person-Profession,,,
+modder,modder,,,Other,Object,,,
+moe,moe,,,Attention/Emotion,Lacking (c)/,,,
+moed,moed,,,Drive,,,,
+moeite,moeite,,,Attention/Drive,,,,
+muur/deur,muur/deur,muur + deur,MULT,Other + Other,Object + Object,,,
+muziek,muziek,,,Audition,,,,
+muziekcorps,muziekcorps,,,Other,Person-Profession,,,
+naar beneden,naar beneden,,,Spatial,,,,
+naar beneden gaan,naar beneden gaan,naar beneden + gaan,SYN; MULT,Spatial +,,,,verb response
+naar bestemming gaan,naar bestemming gaan,naar bestemming + gaan,MULT,Spatial,Destination (c),,,verb response
+naar binnen,naar binnen,binnen,SYN,Spatial,,,,
+naar boven bewegen,naar boven bewegen,naar boven + bewegen,SYN; MULT,Spatial +,,,,verb response
+naar grond,naar grond,naar beneden,SYN,Spatial,,,,
+naar links,naar links,,,Spatial,,,,
+naar rechts,naar rechts,,,Spatial,,,,
+naar werk,naar werk,,,Spatial,Destination (c)/Location (c),,,
+naar winkel,naar winkel,,,Spatial,Destination (c)/Location (c),,,
+nat terrein,nat terrein,,,,,,,
+natuur,natuur,,,Other/Spatial,Object/Location(c),,,
+negatief,negatief,,,Emotion,,,,
+nep,nep,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+net,net,,,Temporal,,,,
+niemand hoort je,niemand hoort je,stil,SYN,Audition,Lacking sound (c),,,
+niet,niet,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+niet aangaan,niet aangaan,,,Social,Lacking (c),,,?
+niet actief,niet actief,,,Motor,Lacking (c),,,
+niet dapper,niet dapper,,,Emotion/Cognition,,,,
+niet hoorbaar willen zijn,niet hoorbaar willen zijn,stil + willen zijn,SYN; MULT,Audition +,Lacking sound (c),,,verb response
+niet in een lijn doorkunnen,niet in een lijn doorkunnen,kronkelend + gaan,SYN; MULT,Spatial +,,,,verb response
+niet in een rechte lijn bewegen,niet in een rechte lijn bewegen,kronkelend + bewegen,SYN; MULT,Spatial +,,,,verb response
+niet op de grond staan,niet op de grond staan,niet op de grond + staan,MULT,Spatial +,,,,verb response
+niet op ingaan,niet op ingaan,,,Social,Lacking (c),,,verb response
+niet rennen,niet rennen,,,,,,,verb response
+niet scheef,niet scheef,,,Spatial,,,,
+niet snel,niet snel,langzaam,SYN,Temporal,Speed (c),,,
+niet te laat komen,niet te laat komen,niet te laat + komen,MULT,Drive +,,,,verb response
+niet willen zien,niet willen zien,,,Drive,,,,verb response
+noodzakelijk,noodzakelijk,,,Drive,,,,
+normaal,normaal,,,,,,,
+obstakel,obstakel,,,Drive,Obstacle (c),,,
+omarmen,omarmen,,,,,,,verb response
+omheen,omheen,opzij,SYN,Spatial,,,,
+omhoog,omhoog,naar boven,SYN,Spatial,,,,
+omhoog gaan,omhoog gaan,naar boven,SYN,Spatial,,,,verb response
+omlaag,omlaag,naar beneden,SYN,Spatial,,,,
+omvallen,omvallen,,,,,,,verb response
+onbehouden,onbehouden,,,Social/Cognition,,,,
+ondergrond,ondergrond,,,Spatial,Location (c),,,
+onderlichaam,onderlichaam,,,Motor/Somatic,,,,
+ongecontroleerd,ongecontroleerd,,,Cognition/Motor,,,,
+ongeremd,ongeremd,,,Cognition/Motor,,,,
+ongezien,ongezien,ongezien,SYN,Vision,,,,
+ongezien wegkomen,ongezien wegkomen,ongezien + wegkomen,SYN; MULT,Vision +,,,,verb response
+ongrijpbaar,ongrijpbaar,,,Motor/Somatic,,,,
+onherkenbaar,onherkenbaar,,,Vision/Cognition,,,,
+onhoorbaar bewegen,onhoorbaar bewegen,stil + bewegen,SYN; MULT,Audition +,,,,verb response
+onopgemerkt,onopgemerkt,,,Vision,,,,
+onoplettendheid op waar je loopt,onoplettendheid op waar je loopt,,,Cognition,,,,verb response
+onopvallend,onopvallend,onopgemerkt,SYN,Cognition/Vision/Audition,,,,
+onprettig,onprettig,,,Emotion,,,,
+onrust,onrust,onrustig,SYN,Cognition/Motor,,,,
+onrustig,onrustig,,,Cognition/Motor,,,,
+onsamenhangend,onsamenhangend,,,,,,,?
+ontkomen,ontkomen,,,,,,,verb response
+ontlopen,ontlopen,,,,,,,verb response
+ontspannend,ontspannend,,,Cognition/Emotion,,,,
+ontspanning,ontspanning,ontspannend,SYN,Cognition/Emotion,,,,
+ontvangst,ontvangst,,,Social,,,,
+ontwijken,ontwijken,,,,,,,verb response
+onvrijwillig,onvrijwillig,,,Cognition/Drive,,,,
+onzichtbaar,onzichtbaar,,,Vision,,,,
+ook in de keuken,ook in de keuken,keuken,SYN,Spatial,Location (c),,,
+op boomstam,op boomstam,boom,SYN,Other,Object,,,
+op de dansvloer,op de dansvloer,,,Spatial,Location (c),,,
+op de deur,op de deur,deur,SYN,Other,Object,,,
+op de maat,op de maat,,,Temporal,Tempo (c),,,
+op de maat van muziek,op de maat van muziek,op de maat + muziek,SYN; MULT,Temporal + Other/Audition,Tempo (c) + Object/,,,
+op de weg,op de weg,,,Spatial,Location (c),,,
+op een festival,op een festival,,,Spatial,Location (c),,,
+op een schoolfeest,op een schoolfeest,,,Spatial/Social,Location (c)/,,,
+op een snijplank,op een snijplank,snijplank,SYN,Other,Object,,,
+op en neer,op en neer,,,Spatial,,,,
+op het gemak,op het gemak,,,Drive,Lacking (c),,,
+op je gemak,op je gemak,,,Drive,Lacking (c),,,
+op je tenen,op je tenen,op tenen,SYN,Motor/Somatic,,,,
+op je tenen lopen,op je tenen lopen,op tenen + lopen,SYN,Motor/Somatic +,,,,verb response
+op je voeten,op je voeten,met voeten,SYN,Motor/Somatic,,,,
+op plank,op plank,snijplank,SYN,Other,Object,,,
+op schoenen,op schoenen,,,Other,Object,,,
+op tenen,op tenen,op tenen,SYN,Motor/Somatic,,,,
+op tijd,op tijd,,,Drive,,,,
+op verboden plaats zijn,op verboden plaats zijn,verboden + plaats + zijn,MULT,Other + Spatial + ,Adjective + Location (c) +,,,verb response
+op zoek,op zoek,,,Cognition/Drive,,,,
+opendoen,opendoen,,,,,,,verb response
+opereren,opereren,,,,,,,verb response
+ophangen,ophangen,,,,,,,verb response
+oppervlakte,oppervlakte,,,Spatial,,,,
+opschieten,opschieten,,,,,,,verb response
+optocht,optocht,,,Social,,,,association?
+opzij,opzij,,,Spatial,,,,
+opzij gaan,opzij gaan,opzij + gaan,SYN; MULT,Spatial +,,,,verb response
+oude mensen,oude mensen,,,Other,Person-Profession,,,
+ouderwets,ouderwets,,,Social,,,,
+ouderwetse muziek,ouderwetse muziek,ouderwets + muziek,SYN; MULT,Social + Audition,,,,
+over de weg,over de weg,,,Spatial,,,,
+over het water,over het water,,,Spatial,,,,
+over iemand heen lopen,over iemand heen lopen,overheen + iemand + lopen,SYN,Spatial + Other + ,+ Person-Profession +,,,verb response
+over iemand heenlopen,over iemand heen lopen,overheen + iemand + lopen,SYN,Spatial + Other + ,+ Person-Profession +,,,verb response
+overal dwars doorheen,overal dwars doorheen,,,Spatial,,,,
+overheen,overheen,,,Spatial,,,,
+overtreffen,overtreffen,,,,,,,verb response
+pad,pad,,,Spatial,Location (c),,,
+papier,papier,,,Other,Object,,,
+papier/karton/haar,papier/karton/haar,papier + karton + haar,MULT,Other + Other + Other,Object + Object + Object,,,
+partner,partner,,,Other,Person-Profession,,,
+passief,passief,,,Social/Cognition/Motor, / /Lacking (c),,,
+pedestrian,pedestrian,voetganger,TRANS; SYN,Other,Person-Profession,,,
+plaats maken,plaats maken,,,,,,,verb response
+plaatsmaken,plaats maken,plaats maken,SYN,,,,,verb response
+plaatsmaken voor iets/iemand anders,plaats maken voor iets/iemand anders,plaats maken + voor iemand,SYN; MULT,+ Other,+ Person-Profession,,,verb response
+plassen,plassen,,,Spatial/Other,Location (c)/Object,,,grammatically/semantically ambiguous!
+plat maken,plat maken,,,,,,,verb response
+platen,platen,,,,,,,"could be ""platten""?; verb response"
+platmaken,plat maken,plat maken,SYN,,,,,verb response
+platteland,platteland,,,Spatial,Location (c),,,
+politie,politie,,,Other,Person-Profession,,,
+praten,praten,,,,,,,verb response
+professioneel hardlopers,professioneel hardlopers,,,Other,Person-Profession,,,
+pumps,pumps,,,,,,,interpreted verb as noun
+puntig,puntig,,,Vision/Somatic,,,,
+random,random,willekeurig,TRANS,Drive,,,,
+rechte lijn,rechte lijn,,,Spatial,,,,
+rechts,rechts,,,Spatial,,,,
+relax,relax,ontspannend,SYN,Cognition/Emotion,,,,
+relaxed,relaxed,ontspannend,SYN,Cognition/Emotion,,,,
+rennen,rennen,,,,,,,verb response
+rijden,rijden,,,,,,,verb response
+ritme,ritme,,,Temporal,Tempo (c),,,
+ritmisch,ritmisch,ritme,SYN,Temporal,Tempo (c),,,
+romantiek,romantiek,romantisch,SYN,Emotion,,,,
+romantisch,romantisch,,,Emotion,,,,
+rond,rond,,,,,,,semantically ambiguous!
+ronddwalen,ronddwalen,,,,,,,verb response
+rondjes lopen,rondjes lopen,,,Spatial,Lacking destination (c),,,verb response
+rondkijken,rondkijken,,,,,,,verb response
+rondlopen,rondlopen,,,,,,,verb response
+rondlopen zonder speciaal doel,rondlopen zonder speciaal doel,doelloos + rondlopen,SYN; MULT,Drive,Lacking (c),,,verb response
+rondtrekken,rondtrekken,,,,,,,verb response
+rondzwerven,rondzwerven,,,,,,,verb response
+rotten,rotten,,,,,,,?; verb response
+rustig,rustig,,,,,,,
+rustig aan,rustig aan,rustig,SYN,Drive,Lacking (c),,,
+rustige muziek,rustige muziek,rustig + muziek,SYN; MULT,Audition + Audition,,,,
+salade,salade,,,Other,Object,,,
+samen zijn,samen zijn,,,,,,,verb response
+schaar,schaar,,,Other,Object,,,
+scheiden,scheiden,,,,,,,verb response
+scherp,scherp,,,Somatic,,,,
+scherp en bot,scherp en bot,scherp + bot,MULT,Somatic + Somatic,,,,
+scherp object,scherp object,scherp + object,MULT,Somatic + Other,+ Object,,,
+schieten,schieten,,,,,,,verb response
+schoen,schoen,schoenen,SYN,Other,Object,,,
+schoenen,schoenen,,,Other,Object,,,
+school,school,,,Spatial,Location (c),,,
+schreeuwen,schreeuwen,,,,,,,verb response
+schrikken,schrikken,,,,,,,verb response
+schuin naar beneden,schuin naar beneden,schuin + naar beneden,MULT,Spatial + Spatial,,,,
+signaal,signaal,,,Audition,,,,semantically ambiguous!
+sinterklaas,sinterklaas,,,Other,Person-Profession,,,
+skien,skiën,,,,,,,verb response
+slaan,slaan,,,,,,,verb response
+slaan met een scherp voorwerp,slaan met een scherp voorwerp,slaan + scherp + object,SYN; MULT,+ Somatic + Other,+ + Object,,,verb response
+slager,slager,,,Other,Person-Profession,,,
+slechter gaan,slechter gaan,slechter worden,SYN,Emotion,,,,
+slechter worden,slechter worden,,,Emotion,,,,
+slenter,slenter,slenteren,SYN,,,,,verb response
+slenteren,slenteren,,,,,,,verb response
+slepen,slepen,,,,,,,verb response
+sloffen,sloffen,,,,,,,verb response
+sloom,sloom,langzaam,SYN,Temporal,Speed (c),,,
+sneaky,sneaky,geheim,SYN,Cognition,,,,
+snee,snee,,,Somatic/Causal,,,,
+snel,snel,,,Temporal,Speed (c),,,
+snel bewegen,snel bewegen,snel + bewegen,SYN; MULT,Temporal +,Speed (c),,,verb response
+snel doen,snel doen,snel + doen,SYN; MULT,Temporal +,Speed (c),,,verb response
+snel voortbewegen,snel voortbewegen,snel + bewegen,SYN; MULT,Temporal +,Speed (c),,,verb response
+snel zijn,snel zijn,snel + zijn,SYN; MULT,Temporal +,Speed (c),,,verb response
+snelheid,snelheid,snel,SYN,Temporal,Speed (c),,,
+snellen,snellen,,,,,,,verb response
+sneller dan joggen,sneller dan joggen,snel,SYN,Temporal,Speed (c),,,
+sneller dan normaal,sneller dan normaal,snel,SYN,Temporal,Speed (c),,,
+sneller dan wandelen,sneller dan wandelen,snel,SYN,Temporal,Speed (c),,,
+snijden,snijden,,,,,,,association?; verb response
+soldaat,soldaat,,,Other,Person-Profession,,,
+soldaten,soldaten,soldaat,SYN,Other,Person-Profession,,,
+soms met touw,soms met touw,touw,,Other,Object,,,
+soort dans,soort dans,dans,SYN,Motor,Manner (c)/Motion (c),,,
+sorry voor dit antwoord,sorry voor dit antwoord,geen,N/A,N/A,,N/A,N/A,
+spanning,spanning,,,Motor/Somatic,Manner (c)/,,,
+spieren,spieren,,,Motor/Somatic,,,,
+spierkracht,spierkracht,spieren,SYN,Motor/Somatic,,,,
+spoed,spoed,haast,SYN,Drive,,,,
+spoeden,spoeden,,,,,,,verb response
+spoedgeval,spoedgeval,,,Drive,,,,
+spoeien,spoeden,,,,,,,verb response
+sport,sport,,,Motor/Social,,,,
+sporten,sporten,,,,,,,verb response
+springen,springen,,,,,,,verb response
+springtouw,springtouw,,,Other,Object,,,
+stampen,stampen,,,,,,,verb response
+stap voor stap,stap voor stap,stappen,SYN,Motor,Manner (c),,,
+stapjes,stapjes,stappen,SYN,Motor,Manner (c),,,
+"steen, schaar","steen, schaar",steen + schaar,MULT,,,,,association?
+steile muur,steile muur,,,Spatial/Other,Location (c)/Object,,,
+stel,stel,duo,SYN,Other,Person-Profession,,,
+sterk,sterk,,,Somatic,,,,semantically ambiguous!
+stiekem,stiekem,geheim,SYN,Cognition,,,,
+stiekem arriveren,stiekem arriveren,geheim + arriveren,SYN; MULT,Cognition,,,,
+stijf,stijf,,,Somatic,,,,semantically ambiguous!
+stijgen,stijgen,,,,,,,verb response
+stijl,stijl,,,Motor,Manner (c),,,
+stijldansen,stijldansen,,,,,,,verb response
+stil,stil,,,Audition/Somatic/Motor,Lacking sound (c)/ /Lacking (c),,,semantically ambiguous!
+stoomwals/machine,stoomwals/machine,,,Other,Object,,,
+stopt na een moment,stopt na een moment,,,Temporal,,,,
+strak,strak,,,Motor/Other,Manner (c)/,,,semantically ambiguous!
+stress,stress,,,Emotion/Drive,,,,
+stukjes,stukjes,stukken,SYN,Causal,,,,
+stukken maken,stukken maken,stukken + maken,MULT,,,,,verb response
+sturen,sturen,,,,,,,verb response
+synchroon,synchroon,,,Temporal,Tempo (c),,,
+tafel,tafel,,,Other,Object,,,
+te laat,te laat,tijdgebrek,SYN,Temporal/Drive,,,,
+te snel af zijn,te snel af zijn,,,Temporal/Social/Drive,,,,semantically ambiguous!
+te voet,te voet,,,Motor/Other,Manner (c)/Vehicle,,,
+te voet of in een voertuig,te voet of in een voertuig,te voet + met een voertuig,SYN; MULT,Motor/Other + Other,Manner (c)/Vehicle + Vehicle,,,
+te voet voortbewegen,te voet voortbewegen,te voet,,Motor/Other + ,Manner (c)/Vehicle +,,,verb response
+techniek,techniek,,,Motor,Manner (c),,,
+techno,techno,,,Audition,,,,
+tegelijk,tegelijk,,,Temporal/Other, /Person-Profession,,,
+tegen een berg,tegen een berg,berg,SYN,Spatial,Location (c),,,
+tegen een deur,tegen een deur,deur,SYN,Other,Object,,,
+tegenovergestelde: klimmen,tegenovergestelde: klimmen,,,,,,,participant offers an antonym; verb response
+tempo maken,tempo maken,snel,SYN,Temporal,Speed (c),,,verb response
+tenen,tenen,,,Motor/Somatic,,,,
+terugtrekken,terugtrekken,,,,,,,verb response
+tijd,tijd,,,Drive,,,,semantically ambiguous!
+tijd te kort,tijd te kort,tijdgebrek,SYN,Drive,,,,
+tijd tekort,tijd tekort,tijdgebrek,SYN,Drive,,,,
+tijdgebrek,tijdgebrek,,,Drive,,,,
+tijdsdruk,tijdsdruk,tijdgebrek,SYN,Drive,,,,
+tijdsdruk hebben,tijdsdruk hebben,tijdgebrek,SYN,Drive,,,,verb response
+tijdsnood,tijdsnood,tijdgebrek,SYN,Drive,,,,
+tijdstip halen,tijdstip halen,tijdgebrek,SYN,Drive,,,,
+tikken,tikken,,,,,,,verb response
+tochten,tochten,,,Spatial,,,,grammatically/semantically ambiguous!
+touw,touw,,SYN,Other,Object,,,
+touwen,touw,touw,SYN,Other,Object,,,
+traag,traag,langzaam,SYN,Temporal,Speed (c),,,
+traag wandelen,traag wandelen,langzaam + wandelen,SYN; MULT,Temporal +,Speed (c) +,,,verb response
+trager dan sprinten,trager dan sprinten,=langzaam?,SYN,Temporal,Speed (c),,,
+trap,trap,,,Spatial/Other,Location (c)/Object,,,
+trappen,trappen,,,Spatial/Other,Location (c)/Object,,,grammatically/semantically ambiguous!
+trein,trein,,,Spatial/Other,Location (c)/Object,,,
+trekken,trekken,,,,,,,verb response
+trommelen,trommelen,,,,,,,verb response
+tussendoor,tussendoor,,,Spatial,,,,
+twee,twee,duo,SYN,Other,Person-Profession,,,"semantically ambiguous!; inferred to mean ""duo"", but means ""two"" and could refer to other things as well."
+twee benen,twee benen,benen,SYN,Motor/Somatic,,,,
+twee personen,twee personen,duo,SYN,Other,Person-Profession,,,
+twee vingers nodig,twee vingers nodig,vingers,SYN,Motor/Somatic,,,,
+tweetal,tweetal,duo,SYN,Other,Person-Profession,,,
+uit balans,uit balans,,,Motor/Somatic,,,,
+uit de handen laten vallen,uit de handen laten vallen,handen + vallen,SYN; MULT,Motor/Somatic,,,,verb response
+uit de weg gaan,uit de weg gaan,uit de weg + gaan,MULT,Spatial +,,,,verb response
+uit het zicht,uit het zicht,,,Vision,,,,
+uit krant,uit krant,,,Other,Object,,,
+uitglijden,uitglijden,,,,,,,verb response
+uitkijken,uitkijken,,,,,,,verb response
+uitwijken,uitwijken,,,,,,,verb response
+uniform,uniform,,,Other,Object,,,association?
+uniform dragen,uniform dragen,uniform,SYN,Other +,Object +,,,association?; verb response
+vaak gedaan als iemand dronken is,vaak gedaan als iemand dronken is,dronken,SYN,Cognition/Somatic/Other, /State (c)/State,,,
+vaak in rechte lijn,vaak in rechte lijn,rechte lijn,SYN,Spatial,,,,
+vaak op deur,vaak op deur,deur,SYN,Other,Object,,,
+vaart,vaart,snel,SYN,Temporal,Speed (c),,,
+vallen,vallen,,,,,,,verb response
+van af gaan,van af gaan,,,Spatial,,,,semantically ambiguous!
+van beslag,van beslag,,,Other,Object,,,
+van de ene naar de andere kant,van de ene naar de andere kant,heen en weer,SYN,Spatial,,,,
+van de paden af,van de paden af,,,Spatial,,,,
+van een berg of heuvel,van een berg of heuvel,berg + heuvel + naar beneden,SYN; MULT,Spatial + Spatial + Spatial,Location (c) + Location (c) +,,,
+van hout,van hout,hout,SYN,Other,Object,,,
+van papier,van papier,papier,SYN,Other,Object,,,
+vast aan touwen,vast aan touwen,touw,SYN,Other,Object,,,
+vastpakken,vastpakken,,,,,,,verb response
+verbeteren,verbeteren,,,,,,,verb response
+verbreken,verbreken,,,,,,,verb response
+verbuigen,verbuigen,,,,,,,verb response
+verdelen,verdelen,,,,,,,verb response
+verdelen in stukken,verdelen in stukken,verdelen + stukken,SYN; MULT,,,,,verb response
+verdwaald,verdwaald,,,Cognition/Drive, /Lacking (c),,,
+verdwaald zijn,verdwaald zijn,verdwaald,SYN,Cognition/Drive +, /Lacking (c) +,,,verb response
+verdwaalt,verdwaald,verdwaald,SYN,Cognition/Drive, /Lacking (c),,,
+verdwijnen,verdwijnen,,,,,,,verb response
+verhoging,verhoging,,,Spatial,,,,
+verkeer,verkeer,,,Social/Other, /Object,,,
+verleden,verleden,,,Temporal,,,,
+verliefd,verliefd,,,Emotion,,,,
+vermijden,vermijden,,,,,,,verb response
+vermoeiend,vermoeiend,,,Motor/Somatic, /State (c),,,
+verplaatsen,verplaatsen,,,,,,,verb response
+verplichting,verplichting,,,Drive,,,,
+verslaan,verslaan,,,,,,,verb response
+verspelen,verspelen,,,,,,,verb response
+verticaal,verticaal,,,Spatial,,,,
+vervangen worden door,vervangen worden door,,,,,,,?; verb response
+verwondering,verwondering,,,Cognition/Emotion,,,,
+verzekeren,verzekeren,,,,,,,verb response; semantically ambiguous!
+verzonnen,verzonnen,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+vies worden,vies worden,vies + worden,MULT,Somatic +,,,,verb response
+vis glipt uit mijn hand,vis glipt uit mijn hand,,,,,,,association?
+vlaggetjes,vlaggetjes,,,,,,,association? incorrect interpretation of the verb?
+vlees,vlees,,,Other,Object,,,
+vlug,vlug,snel,SYN,Temporal,Speed (c),,,
+vlug voortbewegen,vlug voortbewegen,snel + bewegen,SYN; MULT,Temporal +,Speed (c) +,,,verb response
+voedsel,voedsel,,,Other,Object,,,
+voet,voet,voeten,SYN,Motor/Somatic,,,,
+voeten,voeten,,,Motor/Somatic,,,,
+voeten niet optillen,voeten niet optillen,voeten + niet optillen,MULT,Motor/Somatic +,,,,verb response
+voetgangers,voetgangers,,,Other,Person-Profession,,,
+voetje voor voetje,voetje voor voetje,,,Motor,Manner (c),,,
+voetpad,voetpad,pad,SYN,Spatial,Location (c),,,
+volgens,volgens,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+volle kracht,volle kracht,,,Motor,Manner (c),,,
+volop,volop,,,Motor,Manner (c),,,
+voorbereiden,voorbereiden,,,,,,,verb response
+voordeel halen,voordeel halen,,,,,,,verb response
+voordeur,voordeur,deur,SYN,Other,Object,,,
+voortbewegen,voortbewegen,,,,,,,verb response
+voortkomen,voortkomen,,,,,,,verb response
+voortmaken,voortmaken,,,,,,,verb response
+voorwaarts,voorwaarts,,,Spatial,,,,
+voorwerp,voorwerp,object,SYN,Other,Object,,,
+voorzichtig,voorzichtig,,,Cognition/Motor,/Manner (c),,,
+vorm,vorm,,,Vision,,,,
+vorm veranderen,vorm veranderen,vorm + veranderen,,Vision +,,,,verb response
+vormgevend,vormgevend,vormgeving,SYN,Motor/Vision,,,,verb response
+vormgeving,vormgeving,,,Motor/Vision,,,,verb response
+vragen,vragen,,,,,,,verb response
+vragend,vragend,vragen,SYN,,,,,verb response
+vrolijk,vrolijk,,,Emotion,,,,
+vuist,vuist,,,Motor/Somatic,,,,
+vuist/snavel/hamer,vuist/snavel/hamer,vuist + snavel + hamer,MULT,Motor/Somatic + Other + Other,  + Animal > Body part (c) + Object,,,
+wand,wand,,,Other,Object,,,
+wandel,wandel,wandelen,SYN,,,,,verb response
+wandelen,wandelen,,,,,,,verb response
+wanneer dingen juist zijn,wanneer dingen juist zijn,correct,SYN,Cognition/Emotion,,,,
+warm of koud,warm of koud,warm + koud,MULT,Somatic + Somatic,,,,
+warmte,warmte,warm,SYN,Somatic,,,,
+wat,wat,geen,N/A,N/A,,N/A,N/A,
+wat dit is,wat dit is,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+wat is slaaten?,wat is slaaten?,geen,N/A,N/A,,N/A,N/A,
+water,water,,,Other,Object,,,
+wedstrijd,wedstrijd,,,Other/Social,Object/,,,
+wedstrijden,wedstrijden,wedstrijd,SYN,Other/Social,Object/,,,
+weet,weet,geen,N/A,N/A,,N/A,N/A,
+weet niet,weet niet,geen,N/A,N/A,,N/A,N/A,
+weg,weg,,,Spatial,Location (c),,,
+weg kwijt,weg kwijt,verdwaald,,Cognition/Drive, /Lacking (c),,,
+weggaan,weggaan,,,,,,,verb response
+weinig tijd,weinig tijd,tijdgebrek,SYN,Drive,,,,
+werken,werken,,,,,,,verb response
+wijzigen,wijzigen,,,,,,,verb response
+woonwijken,woonwijken,,,Spatial,Location (c),,,
+woord,woord,geen,N/A,N/A,,N/A,N/A,"participant entered words for the sentence ""I don't know what this means"" in separate feature boxes"
+zachtjes,zachtjes,,,Audition/Somatic,,,,semantically ambiguous!
+zachtjes de deur aantikken,zachtjes de deur aantikken,zachtjes + deur + tikken,SYN; MULT,Audition/Somatic + Other +,+ Object +,,,
+zachtjes doen,zachtjes doen,zachtjes,SYN,Audition/Somatic,,,,verb response
+zagen,zagen,,,,,,,verb response
+zakken,zakken,,,,,,,verb response
+zand,zand,,,Spatial/Other,Location (c)/Object,,,
+zekering,zekering,,,Other,Object,,,
+zekeringen,zekeringen,zekering,SYN,Other,Object,,,
+zenuwachtig,zenuwachtig,,,Cognition/Emotion,,,,
+zere voeten,zere voeten,pijn + met voeten,SYN; MULT,Somatic + Motor/Somatic,,,,
+zich heel langzaam voortbewegen,zich heel langzaam voortbewegen,langzaam + voortbewegen,SYN; MULT,Temporal + ,,,,verb response
+zich rustig voortbewegen,zich rustig voortbewegen,rustig + voortbewegen,SYN; MULT,Drive/Temporal +,Lacking (c)/Speed (c) +,,,verb response
+zich snel voortbeweging,zich snel voortbeweging,snel + voortbewegen,SYN; MULT,Temporal + ,,,,verb response
+zo snel mogelijk,zo snel mogelijk,haast,SYN,Drive,,,,
+zo snel mogelijk ergens heen gaan,zo snel mogelijk ergens heen gaan,haast + heengaan,SYN; MULT,Drive +,,,,verb response
+zo stil mogelijk,zo stil mogelijk,stil,SYN,Audition,Lacking sound (c),,,
+zoals het hoort,zoals het hoort,correct,SYN,Cognition/Emotion,,,,
+zoeken,zoeken,,,,,,,verb response
+zoekend,zoekend,zoeken,SYN,,,,,verb response
+zonder doel,zonder doel,doelloos,SYN,Drive,Lacking (c),,,
+zonder duidelijk doel,zonder duidelijk doel,doelloos,SYN,Drive,Lacking (c),,,
+zonder echt doel,zonder echt doel,doelloos,SYN,Drive,Lacking (c),,,
+zool,zool,,,Other,Object,,,
+zwaar,zwaar,,,Somatic,,,,
+zwaartekracht,zwaartekracht,,,Other,Object,,,
+zweet,zweet,zweten,SYN,Somatic,,,,
+zwerven,zwerven,,,,,,,verb response
+zweten,zweten,,,,,,,verb response

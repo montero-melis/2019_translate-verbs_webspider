@@ -1,0 +1,8 @@
+revision,"N/A=no response,
+SYN=synonym,
+MULT=multiple responses,
+TRANS=translated response to Dutch"
+feature_domain,Using the domains from Binder et al. (2016)
+extra_domain/component,"Suggestions for domains and components to add
+(c)=component
+>=signifies component (c) within domain"
